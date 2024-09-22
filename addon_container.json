@@ -188,5 +188,20 @@
     "Name": "Biscuit, Cream Cheese, Gagne",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Cheddar Mozzarella Blend",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Honey Mustard Dipping Sauce",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Six Boneless Wings - In Tray (174g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
