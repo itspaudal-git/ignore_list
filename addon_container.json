@@ -203,5 +203,10 @@
     "Name": "Six Boneless Wings - In Tray (174g)",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Biscuit, Cheddar Chive, Retail",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
