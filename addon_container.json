@@ -208,5 +208,10 @@
     "Name": "Biscuit, Cheddar Chive, Retail",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Biscuit, Gagne, Cheddar Chive, Retail Pack",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
