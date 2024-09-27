@@ -176,13 +176,13 @@
   },
   {
     "Name": "Breakfast Burrito, Chile Verde, 8oz, 226g",
-    "Container": "Tray Sealing",
-    "Master Task": "Tray Portioning and Sealing"
+    "Container": "pre-portioned",
+    "Master Task": "Delete"
   },
   {
     "Name": "Breakfasts Sandwich, Egg Bacon Gouda, 3.7oz, 105g",
-    "Container": "Tray Sealing",
-    "Master Task": "Tray Portioning and Sealing"
+    "Container": "pre-portioned",
+    "Master Task": "Delete"
   },
   {
     "Name": "Biscuit, Cream Cheese, Gagne",
@@ -216,6 +216,21 @@
   },
   {
     "Name": "Tater Tots (150g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Four Spanakopita Bites - In Tray (104g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "4 Pierogies (152g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Egg Bite, Bacon Cheese, 1.75oz, 50g",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
   }
