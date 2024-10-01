@@ -233,5 +233,20 @@
     "Name": "Egg Bite, Bacon Cheese, 1.75oz, 50g",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Four Mozzarella Sticks - In Tray (141g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Opened Sweet Chili Sauce",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "2 Choc Chip Cookie Dough Pucks (141.8g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
