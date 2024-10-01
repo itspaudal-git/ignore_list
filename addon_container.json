@@ -116,8 +116,8 @@
   },
   {
     "Name": "Broccoli Florets - 75g",
-    "Container": "Band Sealing",
-    "Master Task": "Band Sealing"
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
   },
   {
     "Name": "Dried Cranberries",
