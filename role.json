@@ -158,5 +158,15 @@
     "Name": "Annette Lopez",
     "Email": "annette.lopez@tovala.com",
     "Role": "Production"
+  },
+  {
+    "Name": "Brooke Carpenter",
+    "Email": "brooke@tovala.com",
+    "Role": "Admin"
+  },
+  {
+    "Name": "Zhengyang Han",
+    "Email": "zhengyang@tovala.com",
+    "Role": "Admin"
   }
 ]
