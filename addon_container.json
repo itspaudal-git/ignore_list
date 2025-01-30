@@ -248,5 +248,40 @@
     "Name": "2 Choc Chip Cookie Dough Pucks (141.8g)",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Soft Pretzel Bite Pouch 2.6oz",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
+  },
+  {
+    "Name": "Buttermilk Ranch Dressing",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Apple, Dried, Diced",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Oats, Quick, Quaker",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Thawed Hot Dog Chili Sauce",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Sausage, Italian, IVP, 6 oz",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
+  },
+  {
+    "Name": "Steak, Top Sirloin, CMA, 6 oz",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
   }
 ]
