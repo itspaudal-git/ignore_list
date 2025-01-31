@@ -283,5 +283,10 @@
     "Name": "Steak, Top Sirloin, CMA, 6 oz",
     "Container": "Discard This Wiptag",
     "Master Task": "Delete"
+  },
+  {
+    "Name": "Garlic Herb Ricotta Sauce",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
   }
 ]
