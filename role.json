@@ -306,5 +306,19 @@
     "Role": "Production",
     "Facility": "Tubeway",
     "Pin": ""
+  },
+  {
+    "Name": "Salma Zavala",
+    "Email": "salma@tovala.com",
+    "Role": "Admin",
+    "Facility": "Tubeway",
+    "Pin": 1122
+  },
+  {
+    "Name": "Angelica Borjon",
+    "Email": "angelica@tovala.com",
+    "Role": "Admin",
+    "Facility": "Tubeway",
+    "Pin": 1122
   }
 ]
