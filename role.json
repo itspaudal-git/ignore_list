@@ -85,7 +85,7 @@
   },
   {
     "Name": "Bushra Odesho",
-    "Email": "bushra@tovala.com",
+    "Email": "Bushra Odesho",
     "Role": "Manager",
     "Facility": "Pershing",
     "Pin": 1122
@@ -303,6 +303,48 @@
   {
     "Name": "Maria Gutierrez",
     "Email": "mgutierrez@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
+  },
+  {
+    "Name": "Rosan Ghalley",
+    "Email": "rosan@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
+  },
+  {
+    "Name": "Leonel Galan",
+    "Email": "lgalan@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
+  },
+  {
+    "Name": "Jacqueline Bernal",
+    "Email": "jbernal@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
+  },
+  {
+    "Name": "Lucas Childers",
+    "Email": "lchilders@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
+  },
+  {
+    "Name": "Esthefani Gomez",
+    "Email": "esthefani@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
+  },
+  {
+    "Name": "Natali Gomez",
+    "Email": "natali@tovala.com",
     "Role": "Production",
     "Facility": "Tubeway",
     "Pin": 1122
