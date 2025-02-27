@@ -376,5 +376,12 @@
     "Role": "Manager",
     "Facility": "Westvala",
     "Pin": 1122
+  },
+  {
+    "Name": "Plant Manger",
+    "Email": "plantmanager@testvala.com",
+    "Role": "Admin",
+    "Facility": "All",
+    "Pin": 1122
   }
 ]
