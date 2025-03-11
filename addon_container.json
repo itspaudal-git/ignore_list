@@ -288,5 +288,25 @@
     "Name": "Garlic Herb Ricotta Sauce",
     "Container": "Sachet",
     "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "apricot, dried, diced",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Brown Sugar Cinnamon Mix for Apple Compote",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Chopped Walnut",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Raisin, Golden",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
   }
 ]
