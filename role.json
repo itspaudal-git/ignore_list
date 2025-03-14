@@ -1,387 +1,394 @@
 [
   {
-    "Pin" : 4439,
-    "Facility" : "All",
-    "Name" : "Pau Dal",
-    "Role" : "Admin",
-    "Email" : "pau@tovala.com"
+    "Name": "Pau Dal",
+    "Email": "pau@tovala.com",
+    "Role": "Admin",
+    "Facility": "All",
+    "Pin": 4439
   },
   {
-    "Facility" : "Tubeway",
-    "Email" : "peggy@tovala.com",
-    "Role" : "Admin",
-    "Pin" : 1122,
-    "Name" : "Peggy Fillis"
+    "Name": "Peggy Fillis",
+    "Email": "peggy@tovala.com",
+    "Role": "Admin",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Role" : "Admin",
-    "Facility" : "Tubeway",
-    "Pin" : 1122,
-    "Name" : "Jen Carter",
-    "Email" : "jen@tovala.com"
+    "Name": "Jen Carter",
+    "Email": "jen@tovala.com",
+    "Role": "Admin",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Name" : "Salma Zavala",
-    "Role" : "Admin",
-    "Facility" : "Tubeway",
-    "Pin" : 1122,
-    "Email" : "salma@tovala.com"
+    "Name": "Salma Zavala",
+    "Email": "salma@tovala.com",
+    "Role": "Admin",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Role" : "Production",
-    "Facility" : "Tubeway",
-    "Pin" : 1122,
-    "Name" : "Esthefani Gomez",
-    "Email" : "esthefani@tovala.com"
+    "Name": "Esthefani Gomez",
+    "Email": "esthefani@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Email" : "tika@tovala.com",
-    "Role" : "Production",
-    "Facility" : "Tubeway",
-    "Name" : "Bikash Monger",
-    "Pin" : 1122
+    "Name": "Bikash Monger",
+    "Email": "tika@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Name" : "Subash Monger",
-    "Role" : "Manager",
-    "Facility" : "Tubeway",
-    "Pin" : 1122,
-    "Email" : "subash@tovala.com"
+    "Name": "Subash Monger",
+    "Email": "subash@tovala.com",
+    "Role": "Manager",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Pin" : 1122,
-    "Email" : "bikash@tovala.com",
-    "Name" : "Bikash Monger",
-    "Role" : "Production",
-    "Facility" : "Tubeway"
+    "Name": "Bikash Monger",
+    "Email": "bikash@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Pin" : 1122,
-    "Role" : "WH",
-    "Name" : "Bryan Robinson",
-    "Facility" : "All",
-    "Email" : "brobinson@tovala.com"
+    "Name": "Bryan Robinson",
+    "Email": "brobinson@tovala.com",
+    "Role": "WH",
+    "Facility": "All",
+    "Pin": 1122
   },
   {
-    "Email" : "angelica@tovala.com",
-    "Name" : "Angelica Borjon",
-    "Facility" : "Tubeway",
-    "Pin" : 1189,
-    "Role" : "Admin"
+    "Name": "Angelica Borjon",
+    "Email": "angelica@tovala.com",
+    "Role": "Admin",
+    "Facility": "Tubeway",
+    "Pin": 1189
   },
   {
-    "Email" : "mickey@tovala.com",
-    "Facility" : "Pershing",
-    "Pin" : 1122,
-    "Name" : "Mickey Nappier",
-    "Role" : "Admin"
+    "Name": "Mickey Nappier",
+    "Email": "mickey@tovala.com",
+    "Role": "Admin",
+    "Facility": "Pershing",
+    "Pin": 1122
   },
   {
-    "Pin" : 1122,
-    "Role" : "Production",
-    "Email" : "oscar@tovala.com",
-    "Facility" : "Pershing",
-    "Name" : "Oscar Zapata"
+    "Name": "Oscar Zapata",
+    "Email": "oscar@tovala.com",
+    "Role": "Production",
+    "Facility": "Pershing",
+    "Pin": 1122
   },
   {
-    "Name" : "Bushra Odesho",
-    "Email" : "bushra@tovala.com",
-    "Facility" : "Pershing",
-    "Pin" : 1122,
-    "Role" : "Manager"
+    "Name": "Bushra Odesho",
+    "Email": "bushra@tovala.com",
+    "Role": "Manager",
+    "Facility": "Pershing",
+    "Pin": 1122
   },
   {
-    "Email" : "itsury@tovala.com",
-    "Facility" : "Pershing",
-    "Name" : "Itsury Aguilar",
-    "Pin" : 1122,
-    "Role" : "Manager"
+    "Name": "Itsury Aguilar",
+    "Email": "itsury@tovala.com",
+    "Role": "Manager",
+    "Facility": "Pershing",
+    "Pin": 1122
   },
   {
-    "Email" : "silvia.rincon@tovala.com",
-    "Facility" : "Pershing",
-    "Role" : "Manager",
-    "Pin" : 2017,
-    "Name" : "Silvia Rincon Gutierrez"
+    "Name": "Silvia Rincon Gutierrez",
+    "Email": "silvia.rincon@tovala.com",
+    "Role": "Manager",
+    "Facility": "Pershing",
+    "Pin": 2017
   },
   {
-    "Pin" : 1122,
-    "Name" : "Derrick Williams",
-    "Role" : "Manager",
-    "Email" : "derrick@tovala.com",
-    "Facility" : "Pershing"
+    "Name": "Derrick Williams",
+    "Email": "derrick@tovala.com",
+    "Role": "Manager",
+    "Facility": "Pershing",
+    "Pin": 1122
   },
   {
-    "Name" : "Jeanine Andrade",
-    "Role" : "HR",
-    "Email" : "jeanine@tovala.com",
-    "Pin" : 1122,
-    "Facility" : "Tubeway"
+    "Name": "Jeanine Andrade",
+    "Email": "jeanine@tovala.com",
+    "Role": "HR",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Pin" : 1122,
-    "Name" : "Selest",
-    "Role" : "Manager",
-    "Facility" : "Pershing",
-    "Email" : "skengue@tovala.com"
+    "Name": "Selest",
+    "Email": "skengue@tovala.com",
+    "Role": "Manager",
+    "Facility": "Pershing",
+    "Pin": 1122
   },
   {
-    "Facility" : "Westvala",
-    "Pin" : 1122,
-    "Name" : "Renee Black",
-    "Role" : "Manager",
-    "Email" : "rblack@tovala.com"
+    "Name": "Renee Black",
+    "Email": "rblack@tovala.com",
+    "Role": "Manager",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Email" : "melody@tovala.com",
-    "Role" : "HR",
-    "Name" : "Melody Fisher",
-    "Pin" : 1122,
-    "Facility" : "Westvala"
+    "Name": "Melody Fisher",
+    "Email": "melody@tovala.com",
+    "Role": "HR",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Name" : "Brad Tebbs",
-    "Facility" : "Westvala",
-    "Role" : "Manager",
-    "Email" : "brad.tebbs@tovala.com",
-    "Pin" : 824
+    "Name": "Brad Tebbs",
+    "Email": "brad.tebbs@tovala.com",
+    "Role": "Manager",
+    "Facility": "Westvala",
+    "Pin": 824
   },
   {
-    "Facility" : "Westvala",
-    "Email" : "don@tovala.com",
-    "Pin" : 1122,
-    "Role" : "Manager",
-    "Name" : "Don Bellon"
+    "Name": "Don Bellon",
+    "Email": "don@tovala.com",
+    "Role": "Manager",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Name" : "Adam Vobora",
-    "Role" : "Admin",
-    "Email" : "avobora@tovala.com",
-    "Facility" : "Westvala",
-    "Pin" : 1122
+    "Name": "Adam Vobora",
+    "Email": "avobora@tovala.com",
+    "Role": "Admin",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Pin" : 1122,
-    "Name" : "Dan Patino",
-    "Role" : "Manager",
-    "Email" : "dpatino@tovala.com",
-    "Facility" : "Westvala"
+    "Name": "Dan Patino",
+    "Email": "dpatino@tovala.com",
+    "Role": "Manager",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Email" : "rreyesgarcia@tovala.com",
-    "Role" : "Production",
-    "Name" : "Roxane Reyes Garcia",
-    "Facility" : "Westvala",
-    "Pin" : 1122
+    "Name": "Roxane Reyes Garcia",
+    "Email": "rreyesgarcia@tovala.com",
+    "Role": "Production",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Role" : "Production",
-    "Facility" : "Westvala",
-    "Email" : "bherrera@tovala.com",
-    "Name" : "Beatriz Herrera",
-    "Pin" : 1122
+    "Name": "Beatriz Herrera",
+    "Email": "bherrera@tovala.com",
+    "Role": "Production",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Email" : "mmarcum@tovala.com",
-    "Facility" : "Westvala",
-    "Pin" : 1122,
-    "Name" : "Michael Marcum",
-    "Role" : "Production"
+    "Name": "Michael Marcum",
+    "Email": "mmarcum@tovala.com",
+    "Role": "Production",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Email" : "lisa.rushton@tovala.com",
-    "Role" : "Production",
-    "Pin" : 1122,
-    "Facility" : "Westvala",
-    "Name" : "Lisa Rushton"
+    "Name": "Lisa Rushton",
+    "Email": "lisa.rushton@tovala.com",
+    "Role": "Production",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Facility" : "Westvala",
-    "Pin" : 1122,
-    "Name" : "Odemaris Pomales",
-    "Role" : "Production",
-    "Email" : "odemarispomales@tovala.com"
+    "Name": "Odemaris Pomales",
+    "Email": "odemarispomales@tovala.com",
+    "Role": "Production",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Pin" : 1122,
-    "Name" : "Erika Orozco",
-    "Email" : "erika.orozco@tovala.com",
-    "Role" : "Production",
-    "Facility" : "Westvala"
+    "Name": "Erika Orozco",
+    "Email": "erika.orozco@tovala.com",
+    "Role": "Production",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Facility" : "Westvala",
-    "Name" : "Vickie Goodro",
-    "Role" : "Production",
-    "Pin" : 1122,
-    "Email" : "vickie.goodro@tovala.com"
+    "Name": "Vickie Goodro",
+    "Email": "vickie.goodro@tovala.com",
+    "Role": "Production",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Role" : "Production",
-    "Pin" : 1122,
-    "Facility" : "Westvala",
-    "Email" : "kchapman@tovala.com",
-    "Name" : "Kelsey chapman"
+    "Name": "Kelsey chapman",
+    "Email": "kchapman@tovala.com",
+    "Role": "Production",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Role" : "Manager",
-    "Facility" : "Westvala",
-    "Pin" : 1122,
-    "Name" : "Chuong Lien",
-    "Email" : "clien@tovala.com"
+    "Name": "Chuong Lien",
+    "Email": "clien@tovala.com",
+    "Role": "Manager",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Role" : "Production",
-    "Facility" : "Westvala",
-    "Pin" : 1122,
-    "Name" : "Amaury Bravo Perez",
-    "Email" : "abravoperez@tovala.com"
+    "Name": "Amaury Bravo Perez",
+    "Email": "abravoperez@tovala.com",
+    "Role": "Production",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Pin" : 1122,
-    "Email" : "annette.lopez@tovala.com",
-    "Facility" : "Westvala",
-    "Name" : "Annette Lopez",
-    "Role" : "Production"
+    "Name": "Annette Lopez",
+    "Email": "annette.lopez@tovala.com",
+    "Role": "Production",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Facility" : "All",
-    "Pin" : 1122,
-    "Name" : "Brooke Carpenter",
-    "Role" : "Manager",
-    "Email" : "brooke@tovala.com"
+    "Name": "Brooke Carpenter",
+    "Email": "brooke@tovala.com",
+    "Role": "Manager",
+    "Facility": "All",
+    "Pin": 1122
   },
   {
-    "Name" : "Zhengyang Han",
-    "Email" : "zhengyang@tovala.com",
-    "Facility" : "All",
-    "Role" : "Manager",
-    "Pin" : 1122
+    "Name": "Zhengyang Han",
+    "Email": "zhengyang@tovala.com",
+    "Role": "Manager",
+    "Facility": "All",
+    "Pin": 1122
   },
   {
-    "Name" : "Monica Rodriguez",
-    "Pin" : 1122,
-    "Email" : "monica@tovala.com",
-    "Role" : "HR",
-    "Facility" : "Tubeway"
+    "Name": "Monica Rodriguez",
+    "Email": "monica@tovala.com",
+    "Role": "HR",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Role" : "HR",
-    "Email" : "emma@tovala.com",
-    "Facility" : "Westvala",
-    "Name" : "Emma",
-    "Pin" : 1122
+    "Name": "Emma",
+    "Email": "emma@tovala.com",
+    "Role": "HR",
+    "Facility": "Westvala",
+    "Pin": 1122
   },
   {
-    "Pin" : 1122,
-    "Role" : "Admin",
-    "Name" : "Peter",
-    "Email" : "peter@tovala.com",
-    "Facility" : "All"
+    "Name": "Peter",
+    "Email": "peter@tovala.com",
+    "Role": "Admin",
+    "Facility": "All",
+    "Pin": 1122
   },
   {
-    "Email" : "neel@tovala.com",
-    "Name" : "Neel",
-    "Facility" : "All",
-    "Pin" : 1122,
-    "Role" : "Admin"
+    "Name": "John",
+    "Email": "john@tovala.com",
+    "Role": "Admin",
+    "Facility": "All",
+    "Pin": 1122
   },
   {
-    "Role" : "Admin",
-    "Name" : "Lillian Wang",
-    "Email" : "lillian.wang@tovala.com",
-    "Pin" : 1122,
-    "Facility" : "All"
+    "Name": "Neel",
+    "Email": "neel@tovala.com",
+    "Role": "Admin",
+    "Facility": "All",
+    "Pin": 1122
   },
   {
-    "Pin" : 1122,
-    "Email" : "yromero@tovala.com",
-    "Role" : "Production",
-    "Name" : "Yannick Romero",
-    "Facility" : "Pershing"
+    "Name": "Lillian Wang",
+    "Email": "lillian.wang@tovala.com",
+    "Role": "Admin",
+    "Facility": "All",
+    "Pin": 1122
   },
   {
-    "Facility" : "Pershing",
-    "Name" : "Jenique Gill",
-    "Role" : "Production",
-    "Pin" : 1122,
-    "Email" : "jenique.gill@tovala.com"
+    "Name": "Yannick Romero",
+    "Email": "yromero@tovala.com",
+    "Role": "Production",
+    "Facility": "Pershing",
+    "Pin": 1122
   },
   {
-    "Name" : "Zaira Ceja",
-    "Facility" : "Tubeway",
-    "Pin" : 1122,
-    "Email" : "zceja@tovala.com",
-    "Role" : "Production"
+    "Name": "Jenique Gill",
+    "Email": "jenique.gill@tovala.com",
+    "Role": "Production",
+    "Facility": "Pershing",
+    "Pin": 1122
   },
   {
-    "Name" : "Yolimar Morales",
-    "Email" : "ymorales@tovala.com",
-    "Facility" : "Tubeway",
-    "Role" : "Production",
-    "Pin" : 1122
+    "Name": "Zaira Ceja",
+    "Email": "zceja@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Pin" : 1122,
-    "Email" : "mgutierrez@tovala.com",
-    "Facility" : "Tubeway",
-    "Name" : "Maria Gutierrez",
-    "Role" : "Production"
+    "Name": "Yolimar Morales",
+    "Email": "ymorales@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Email" : "rosan@tovala.com",
-    "Facility" : "Tubeway",
-    "Pin" : 1122,
-    "Name" : "Rosan Ghalley",
-    "Role" : "Production"
+    "Name": "Maria Gutierrez",
+    "Email": "mgutierrez@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Name" : "Leonel Galan",
-    "Pin" : 1122,
-    "Facility" : "Tubeway",
-    "Email" : "lgalan@tovala.com",
-    "Role" : "Production"
+    "Name": "Rosan Ghalley",
+    "Email": "rosan@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Facility" : "Tubeway",
-    "Role" : "Production",
-    "Email" : "jbernal@tovala.com",
-    "Pin" : 1122,
-    "Name" : "Jacqueline Bernal"
+    "Name": "Leonel Galan",
+    "Email": "lgalan@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Facility" : "Tubeway",
-    "Email" : "lchilders@tovala.com",
-    "Role" : "Production",
-    "Pin" : 1122,
-    "Name" : "Lucas Childers"
+    "Name": "Jacqueline Bernal",
+    "Email": "jbernal@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Email" : "esthefani@tovala.com",
-    "Pin" : 1122,
-    "Facility" : "Tubeway",
-    "Name" : "Esthefani Gomez",
-    "Role" : "Production"
+    "Name": "Lucas Childers",
+    "Email": "lchilders@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Pin" : 1122,
-    "Name" : "Natali Gomez",
-    "Role" : "Production",
-    "Email" : "natali@tovala.com",
-    "Facility" : "Tubeway"
+    "Name": "Esthefani Gomez",
+    "Email": "esthefani@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Email" : "jespino@tovala.com",
-    "Pin" : 1122,
-    "Name" : "Johnathan Espino",
-    "Facility" : "Westvala",
-    "Role" : "Manager"
+    "Name": "Natali Gomez",
+    "Email": "natali@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122
   },
   {
-    "Role" : "Admin",
-    "Email" : "plantmanager@testvala.com",
-    "Pin" : 1122,
-    "Name" : "Plant Manger",
-    "Facility" : "All"
+    "Name": "Johnathan Espino",
+    "Email": "jespino@tovala.com",
+    "Role": "Manager",
+    "Facility": "Westvala",
+    "Pin": 1122
+  },
+  {
+    "Name": "Plant Manger",
+    "Email": "plantmanager@testvala.com",
+    "Role": "Admin",
+    "Facility": "All",
+    "Pin": 1122
   }
 ]
