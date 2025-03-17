@@ -308,5 +308,10 @@
     "Name": "Raisin, Golden",
     "Container": "Dry Sachet",
     "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Lemon Ricotta",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
   }
 ]
