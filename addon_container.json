@@ -313,5 +313,30 @@
     "Name": "Lemon Ricotta",
     "Container": "Sachet",
     "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Six Chicken Potstickers - In Tray",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Shredded Mozzarella Parmesan Mix",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Meatloaf, Beef & Vege, 6oz, 170g",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
+  },
+  {
+    "Name": "Shrimp, 4150, IQF, 5 oz",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
+  },
+  {
+    "Name": "Strawberry Preserves, Dickinson",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
   }
 ]
