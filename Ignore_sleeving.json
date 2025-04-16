@@ -433,13 +433,25 @@
   },
   {
     "Product": "Steak, Tenderloin Filet, 4oz, VP",
-    "Container": "",
+    "Container": "tray 1 vac pack",
     "Assign_Letter": "",
     "Slot_Map": ""
   },
   {
     "Product": "Steak, Tenderloin Filet, 4oz, VP - 2",
-    "Container": "",
+    "Container": "tray 1 vac pack",
+    "Assign_Letter": "",
+    "Slot_Map": ""
+  },
+  {
+    "Product": "Prime Rib Strips, 5.64oz, 160g",
+    "Container": "tray 1 vac pack",
+    "Assign_Letter": "",
+    "Slot_Map": ""
+  },
+  {
+    "Product": "Prime Rib Strips, 5.64oz, 160g - 2",
+    "Container": "tray 1 vac pack",
     "Assign_Letter": "",
     "Slot_Map": ""
   }
