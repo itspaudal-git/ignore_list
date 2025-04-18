@@ -363,5 +363,10 @@
     "Name": "Boneless Wings - In Tray (174g)",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Chicken Egg Roll",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
   }
 ]
