@@ -358,5 +358,10 @@
     "Name": "Salmon, IQF, 5 oz",
     "Container": "Discard This Wiptag",
     "Master Task": "Delete"
+  },
+  {
+    "Name": "Boneless Wings - In Tray (174g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
