@@ -338,5 +338,10 @@
     "Name": "Strawberry Preserves, Dickinson",
     "Container": "Discard This Wiptag",
     "Master Task": "Delete"
+  },
+  {
+    "Name": "Boneless Wings - In Tray",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
