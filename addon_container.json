@@ -343,5 +343,20 @@
     "Name": "Boneless Wings - In Tray",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Meatballs, Precooked, Beef & Pork 6-1oz IVP",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
+  },
+  {
+    "Name": "Salmon Pinwheel Florentine, 6 oz.",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
+  },
+  {
+    "Name": "Salmon, IQF, 5 oz",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
   }
 ]
