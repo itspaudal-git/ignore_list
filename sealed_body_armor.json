@@ -54,5 +54,17 @@
   {
     "Product": "Garlic Hummus",
     "Container": "Liquid Sachet Depositing"
+  },
+  {
+    "Product": "Broccoli Salad Dressing",
+    "Container": "Liquid Sachet Depositing"
+  },
+  {
+    "Product": "Cheddar, shredded, sharp",
+    "Container": "Dry Sachet Depositing"
+  },
+  {
+    "Product": "Thawed Hot Dog Chili Sauce",
+    "Container": "Liquid Sachet Depositing"
   }
 ]
