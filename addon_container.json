@@ -368,5 +368,25 @@
     "Name": "Chicken Egg Roll",
     "Container": "Discard This Wiptag",
     "Master Task": "Delete"
+  },
+  {
+    "Name": "Sweet BBQ Sauce, Giraffe",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Cucumber Raita",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Garlic Hummus",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Broccoli Salad Dressing",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
   }
 ]
