@@ -388,5 +388,10 @@
     "Name": "Broccoli Salad Dressing",
     "Container": "Sachet",
     "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Apple Crumble Blossom, 4oz, 113g",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
