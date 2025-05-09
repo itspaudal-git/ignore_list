@@ -115,6 +115,11 @@
     "Master Task": "Dry Sachet Depositing"
   },
   {
+    "Name": "Broccoli Florets - 75g",
+    "Container": "Band Sealing",
+    "Master Task": "Band Sealing"
+  },
+  {
     "Name": "Dried Cranberries",
     "Container": "Dry Sachet",
     "Master Task": "Dry Sachet Depositing"
