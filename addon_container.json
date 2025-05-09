@@ -115,11 +115,6 @@
     "Master Task": "Dry Sachet Depositing"
   },
   {
-    "Name": "Broccoli Florets - 75g",
-    "Container": "Discard This Wiptag",
-    "Master Task": "Delete"
-  },
-  {
     "Name": "Dried Cranberries",
     "Container": "Dry Sachet",
     "Master Task": "Dry Sachet Depositing"
