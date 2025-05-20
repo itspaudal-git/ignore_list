@@ -403,5 +403,20 @@
     "Name": "Southwest Chicken Egg Roll, 85g",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Premade Mashed Potatoes",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Basmati Rice - 60g Dry Sachet",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Basmati Rice - 60g Dry Sachet - 2",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
   }
 ]
