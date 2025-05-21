@@ -1,14 +1,14 @@
 [
   {
     "Name": "Basmati Rice - 60g Dry Sachet",
-    "New_Container": "Dry Sachet",
-    "New_Task": "Dry Sachet Depositing",
+    "New_Container": "dry sachet",
+    "New_Task": "Dry Sachet",
     "Per_Count": 300
   },
   {
     "Name": "Basmati Rice - 60g Dry Sachet - 2",
-    "New_Container": "Dry Sachet",
-    "New_Task": "Dry Sachet Depositing",
+    "New_Container": "dry sachet",
+    "New_Task": "Dry Sachet",
     "Per_Count": 300
   }
 ]
