@@ -498,9 +498,9 @@
     "Name": "Zaira Ceja",
     "Email": "zceja@tovala.com",
     "Role": "Production",
-    "Facility": "Tubeway",
+    "Facility": "All",
     "Pin": 1122,
-    "Production": "",
+    "Production": true,
     "QA": true,
     "Packout": "",
     "Dashboard": ""
