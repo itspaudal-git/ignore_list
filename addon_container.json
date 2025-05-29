@@ -418,5 +418,10 @@
     "Name": "Basmati Rice - 60g Dry Sachet - 2",
     "Container": "Dry Sachet",
     "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Biscuit, Cheddar Chive",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
