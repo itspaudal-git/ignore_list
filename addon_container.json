@@ -116,8 +116,8 @@
   },
   {
     "Name": "Broccoli Florets - 75g",
-    "Container": "Veggie Sealing",
-    "Master Task": "Veggie Sealing"
+    "Container": "Band Sealing",
+    "Master Task": "Band Sealing"
   },
   {
     "Name": "Dried Cranberries",
@@ -423,5 +423,15 @@
     "Name": "Biscuit, Cheddar Chive",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Corn Puree for Corn Cake",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Salsa, Fire Roasted, Mild",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
   }
 ]
