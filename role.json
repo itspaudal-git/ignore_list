@@ -70,6 +70,20 @@
     "Status": ""
   },
   {
+    "Name": "Sandra",
+    "Email": "sandra@tovala.com",
+    "Role": "Production",
+    "Facility": "Tubeway",
+    "Pin": 1122,
+    "Production": true,
+    "QA": "",
+    "Packout": "",
+    "Dashboard": "",
+    "Cooking": "",
+    "Transfer": true,
+    "Status": ""
+  },
+  {
     "Name": "Tika Monger",
     "Email": "tika@tovala.com",
     "Role": "Production",
