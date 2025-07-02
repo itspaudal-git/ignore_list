@@ -462,6 +462,20 @@
     "Status": ""
   },
   {
+    "Name": "Seydi Castro",
+    "Email": "scastro@tovala.com",
+    "Role": "Manager",
+    "Facility": "Westvala",
+    "Pin": 1122,
+    "Production": true,
+    "QA": true,
+    "Packout": "",
+    "Dashboard": "",
+    "Cooking": true,
+    "Transfer": "",
+    "Status": ""
+  },
+  {
     "Name": "Chuong Lien",
     "Email": "clien@tovala.com",
     "Role": "Manager",
