@@ -783,6 +783,20 @@
     "QA" : false,
     "Cooking" : false
   },
+    {
+    "Name" : "Omar",
+    "Dashboard" : false,
+    "Status" : false,
+    "Pin" : 1122,
+    "Packout" : false,
+    "Production" : true,
+    "Email" : "omantuano@tovala.com",
+    "Facility" : "Tubeway",
+    "Transfer" : true,
+    "Role" : "Production",
+    "QA" : false,
+    "Cooking" : false
+  },
   {
     "Name" : "Johnathan Espino",
     "Dashboard" : false,
