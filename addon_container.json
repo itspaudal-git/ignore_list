@@ -443,5 +443,25 @@
     "Name": "Vodka Sauce - Canned Marinara",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Six Pigs in a Blanket - In Tray (102g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Chicken Wings, IVP, 9.25oz, 262g",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Thawed Spinach Artichoke Dip",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Buffalo Sauce",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
   }
 ]
