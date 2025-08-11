@@ -463,5 +463,15 @@
     "Name": "Buffalo Sauce",
     "Container": "Sachet",
     "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Smokey BBQ Sauce, Giraffe",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Thawed Old Fashioned Chili with Beans",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
