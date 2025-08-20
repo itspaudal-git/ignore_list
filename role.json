@@ -828,7 +828,7 @@
   {
     "Name": "Emily",
     "Email": "emily@tovala.com",
-    "Role": "WH",
+    "Role": "Admin",
     "Facility": "All",
     "Pin": 1122,
     "Production": true,
