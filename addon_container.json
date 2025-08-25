@@ -473,5 +473,10 @@
     "Name": "Thawed Old Fashioned Chili with Beans",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Thawed White Chicken Chili",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
   }
 ]
