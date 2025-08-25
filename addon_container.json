@@ -370,6 +370,11 @@
     "Master Task": "Delete"
   },
   {
+    "Name": "Pretzel Bites 6oz, 170g",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
+  },
+  {
     "Name": "Sweet BBQ Sauce, Giraffe",
     "Container": "Sachet",
     "Master Task": "Liquid Sachet Depositing"
@@ -478,5 +483,10 @@
     "Name": "Thawed White Chicken Chili",
     "Container": "Sachet",
     "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Southwest Chicken Egg Roll, 170g",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
