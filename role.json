@@ -53,7 +53,7 @@
     "Dashboard": "",
     "Cooking": "",
     "Transfer": true,
-    "Status": ""
+    "Status": true
   },
   {
     "Name": "Esthefani Gomez",
@@ -165,7 +165,7 @@
     "Dashboard": true,
     "Cooking": true,
     "Transfer": true,
-    "Status": ""
+    "Status": true
   },
   {
     "Name": "Oscar Zapata",
@@ -529,7 +529,7 @@
     "Dashboard": "",
     "Cooking": "",
     "Transfer": "",
-    "Status": ""
+    "Status": true
   },
   {
     "Name": "Zhengyang Han",
@@ -543,7 +543,7 @@
     "Dashboard": "",
     "Cooking": "",
     "Transfer": "",
-    "Status": ""
+    "Status": true
   },
   {
     "Name": "Monica Rodriguez",
@@ -627,7 +627,7 @@
     "Dashboard": "",
     "Cooking": "",
     "Transfer": "",
-    "Status": ""
+    "Status": true
   },
   {
     "Name": "Yannick Romero",
