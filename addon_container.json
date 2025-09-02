@@ -488,5 +488,10 @@
     "Name": "Southwest Chicken Egg Roll, 170g",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Cheddar Grits",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
