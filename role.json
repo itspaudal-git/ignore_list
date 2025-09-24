@@ -308,6 +308,20 @@
     "Status": ""
   },
   {
+    "Name": "Cody C",
+    "Email": "ccipres@tovala.com ",
+    "Role": "Manager",
+    "Facility": "Westvala",
+    "Pin": 824,
+    "Production": true,
+    "QA": true,
+    "Packout": "",
+    "Dashboard": "",
+    "Cooking": true,
+    "Transfer": "",
+    "Status": ""
+  },
+  {
     "Name": "Don Bellon",
     "Email": "don@tovala.com",
     "Role": "Manager",
