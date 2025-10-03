@@ -686,6 +686,20 @@
     "Status": true
   },
   {
+    "Name": "Herrera",
+    "Email": "Iherrera@tovala.com",
+    "Role": "Production",
+    "Facility": "Pershing",
+    "Pin": 1122,
+    "Production": true,
+    "QA": true,
+    "Packout": "",
+    "Dashboard": "",
+    "Cooking": "",
+    "Transfer": "",
+    "Status": false
+  },
+  {
     "Name": "Yolimar Morales",
     "Email": "ymorales@tovala.com",
     "Role": "Production",
