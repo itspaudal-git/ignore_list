@@ -493,5 +493,15 @@
     "Name": "Cheddar Grits",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "2 Pumpkin Scones, 150g",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Butternut Squash Soup Base",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
