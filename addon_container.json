@@ -503,5 +503,10 @@
     "Name": "Butternut Squash Soup Base",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "BBQ Sauce Sachet, 1.34oz, 38g",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
   }
 ]
