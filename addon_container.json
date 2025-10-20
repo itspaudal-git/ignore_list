@@ -508,5 +508,10 @@
     "Name": "BBQ Sauce Sachet, 1.34oz, 38g",
     "Container": "Sachet",
     "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Two Garlic Knots - In Tray (80g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
