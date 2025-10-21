@@ -56,6 +56,20 @@
     "Status": true
   },
   {
+    "Name": "Luis Gomez",
+    "Email": "lgomez@tovala.com",
+    "Role": "Admin",
+    "Facility": "Tubeway",
+    "Pin": 1122,
+    "Production": true,
+    "QA": "",
+    "Packout": "",
+    "Dashboard": "",
+    "Cooking": "",
+    "Transfer": true,
+    "Status": true
+  },
+  {
     "Name": "Esthefani Gomez",
     "Email": "esthefani@tovala.com",
     "Role": "Production",
