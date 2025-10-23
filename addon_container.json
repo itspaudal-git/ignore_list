@@ -528,5 +528,10 @@
     "Name": "Thanksgiving Stuffing",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Crispy Onions, Sachet (8g)",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
   }
 ]
