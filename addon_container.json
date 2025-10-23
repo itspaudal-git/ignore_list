@@ -513,5 +513,20 @@
     "Name": "Two Garlic Knots - In Tray (80g)",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Liquid Egg",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Green Bean Casserole",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Thanksgiving Stuffing",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
