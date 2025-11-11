@@ -2,7 +2,7 @@
   {
     "Name": "Butter, Chip, Grassland, Salted",
     "Container": "Discard This Wiptag",
-    "Master Task": "Delete"
+    "Master Task": ""
   },
   {
     "Name": "Ciabatta Roll IW, 70.8g",
@@ -147,7 +147,7 @@
   {
     "Name": "Honey, Packet, Sue Bee",
     "Container": "pre-portioned",
-    "Master Task": "Delete"
+    "Master Task": ""
   },
   {
     "Name": "Pork Chop, VP, CMA",
@@ -252,7 +252,7 @@
   {
     "Name": "Soft Pretzel Bite Pouch 2.6oz",
     "Container": "Discard This Wiptag",
-    "Master Task": "Delete"
+    "Master Task": ""
   },
   {
     "Name": "Buttermilk Ranch Dressing",
@@ -337,7 +337,7 @@
   {
     "Name": "Strawberry Preserves, Dickinson",
     "Container": "Discard This Wiptag",
-    "Master Task": "Delete"
+    "Master Task": ""
   },
   {
     "Name": "Boneless Wings - In Tray",
@@ -367,12 +367,12 @@
   {
     "Name": "Chicken Egg Roll",
     "Container": "Discard This Wiptag",
-    "Master Task": "Delete"
+    "Master Task": ""
   },
   {
     "Name": "Pretzel Bites 6oz, 170g",
     "Container": "Discard This Wiptag",
-    "Master Task": "Delete"
+    "Master Task": ""
   },
   {
     "Name": "Sweet BBQ Sauce, Giraffe",
@@ -557,11 +557,11 @@
   {
     "Name": "Soy Sauce, Packet",
     "Container": "Discard This Wiptag",
-    "Master Task": "Delete"
+    "Master Task": ""
   },
   {
     "Name": "Vanilla Icing Packet, 1.5oz, 43g",
     "Container": "Discard This Wiptag",
-    "Master Task": "Delete"
+    "Master Task": ""
   }
 ]
