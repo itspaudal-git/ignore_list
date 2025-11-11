@@ -548,5 +548,20 @@
     "Name": "Garlic Knots, 1.4 oz, 40g",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Steak, Tenderloin Filet, 6 oz, VP",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
+  },
+  {
+    "Name": "Soy Sauce, Packet",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
+  },
+  {
+    "Name": "Vanilla Icing Packet, 1.5oz, 43g",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
   }
 ]
