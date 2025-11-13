@@ -6,8 +6,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Sunday"
+    "Equipment": "Warehouse",
+    "Day": "Sunday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -16,8 +17,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Sunday"
+    "Equipment": "Sanitation",
+    "Day": "Sunday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -26,8 +28,9 @@
     "Task": "Facility",
     "Count": 0,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Sunday"
+    "Equipment": "QA",
+    "Day": "Sunday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -36,8 +39,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Monday"
+    "Equipment": "Warehouse",
+    "Day": "Monday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -46,8 +50,9 @@
     "Task": "Facility",
     "Count": 3,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Monday"
+    "Equipment": "Sanitation",
+    "Day": "Monday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -56,8 +61,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Monday"
+    "Equipment": "QA",
+    "Day": "Monday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -66,8 +72,9 @@
     "Task": "Facility",
     "Count": 4,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Tuesday"
+    "Equipment": "Warehouse",
+    "Day": "Tuesday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -76,8 +83,9 @@
     "Task": "Facility",
     "Count": 5,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Tuesday"
+    "Equipment": "Sanitation",
+    "Day": "Tuesday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -86,8 +94,9 @@
     "Task": "Facility",
     "Count": 3,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Tuesday"
+    "Equipment": "QA",
+    "Day": "Tuesday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -96,8 +105,9 @@
     "Task": "Facility",
     "Count": 4,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Wednesday"
+    "Equipment": "Warehouse",
+    "Day": "Wednesday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -106,8 +116,9 @@
     "Task": "Facility",
     "Count": 5,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Wednesday"
+    "Equipment": "Sanitation",
+    "Day": "Wednesday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -116,8 +127,9 @@
     "Task": "Facility",
     "Count": 3,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Wednesday"
+    "Equipment": "QA",
+    "Day": "Wednesday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -126,8 +138,9 @@
     "Task": "Facility",
     "Count": 4,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Thursday"
+    "Equipment": "Warehouse",
+    "Day": "Thursday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -136,8 +149,9 @@
     "Task": "Facility",
     "Count": 5,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Thursday"
+    "Equipment": "Sanitation",
+    "Day": "Thursday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -146,8 +160,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Thursday"
+    "Equipment": "QA",
+    "Day": "Thursday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -156,8 +171,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Friday"
+    "Equipment": "Warehouse",
+    "Day": "Friday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -166,8 +182,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Friday"
+    "Equipment": "Sanitation",
+    "Day": "Friday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -176,8 +193,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Friday"
+    "Equipment": "QA",
+    "Day": "Friday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -186,8 +204,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Saturday"
+    "Equipment": "Warehouse",
+    "Day": "Saturday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -196,8 +215,9 @@
     "Task": "Facility",
     "Count": 3,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Saturday"
+    "Equipment": "Sanitation",
+    "Day": "Saturday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -206,8 +226,9 @@
     "Task": "Facility",
     "Count": 3,
     "UoM": "Hours",
-    "Equipment": "Tubeway",
-    "Day": "Saturday"
+    "Equipment": "QA",
+    "Day": "Saturday",
+    "Facility": "Tubeway"
   },
   {
     "Cycle": "combine",
@@ -216,8 +237,9 @@
     "Task": "Facility",
     "Count": 1,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Sunday"
+    "Equipment": "Warehouse",
+    "Day": "Sunday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -226,8 +248,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Sunday"
+    "Equipment": "Sanitation",
+    "Day": "Sunday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -236,8 +259,9 @@
     "Task": "Facility",
     "Count": 1,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Sunday"
+    "Equipment": "QA",
+    "Day": "Sunday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -246,8 +270,9 @@
     "Task": "Facility",
     "Count": 1,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Monday"
+    "Equipment": "Warehouse",
+    "Day": "Monday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -256,8 +281,9 @@
     "Task": "Facility",
     "Count": 4,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Monday"
+    "Equipment": "Sanitation",
+    "Day": "Monday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -266,8 +292,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Monday"
+    "Equipment": "QA",
+    "Day": "Monday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -276,8 +303,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Tuesday"
+    "Equipment": "Warehouse",
+    "Day": "Tuesday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -286,8 +314,9 @@
     "Task": "Facility",
     "Count": 7,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Tuesday"
+    "Equipment": "Sanitation",
+    "Day": "Tuesday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -296,8 +325,9 @@
     "Task": "Facility",
     "Count": 3,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Tuesday"
+    "Equipment": "QA",
+    "Day": "Tuesday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -306,8 +336,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Wednesday"
+    "Equipment": "Warehouse",
+    "Day": "Wednesday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -316,8 +347,9 @@
     "Task": "Facility",
     "Count": 7,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Wednesday"
+    "Equipment": "Sanitation",
+    "Day": "Wednesday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -326,8 +358,9 @@
     "Task": "Facility",
     "Count": 3,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Wednesday"
+    "Equipment": "QA",
+    "Day": "Wednesday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -336,8 +369,9 @@
     "Task": "Facility",
     "Count": 2,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Thursday"
+    "Equipment": "Warehouse",
+    "Day": "Thursday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -346,8 +380,9 @@
     "Task": "Facility",
     "Count": 7,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Thursday"
+    "Equipment": "Sanitation",
+    "Day": "Thursday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -356,8 +391,9 @@
     "Task": "Facility",
     "Count": 3,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Thursday"
+    "Equipment": "QA",
+    "Day": "Thursday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -366,8 +402,9 @@
     "Task": "Facility",
     "Count": 1,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Friday"
+    "Equipment": "Warehouse",
+    "Day": "Friday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -376,8 +413,9 @@
     "Task": "Facility",
     "Count": 3,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Friday"
+    "Equipment": "Sanitation",
+    "Day": "Friday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -386,8 +424,9 @@
     "Task": "Facility",
     "Count": 1,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Friday"
+    "Equipment": "QA",
+    "Day": "Friday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -396,8 +435,9 @@
     "Task": "Facility",
     "Count": 1,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Saturday"
+    "Equipment": "Warehouse",
+    "Day": "Saturday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -406,8 +446,9 @@
     "Task": "Facility",
     "Count": 3,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Saturday"
+    "Equipment": "Sanitation",
+    "Day": "Saturday",
+    "Facility": "Pershing"
   },
   {
     "Cycle": "combine",
@@ -416,7 +457,8 @@
     "Task": "Facility",
     "Count": 1,
     "UoM": "Hours",
-    "Equipment": "Pershing",
-    "Day": "Saturday"
+    "Equipment": "QA",
+    "Day": "Saturday",
+    "Facility": "Pershing"
   }
 ]
