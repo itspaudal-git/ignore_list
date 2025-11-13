@@ -1,0 +1,422 @@
+[
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Sunday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Sunday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 0,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Sunday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Monday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 3,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Monday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Monday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 4,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Tuesday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 5,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Tuesday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 3,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Tuesday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 4,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Wednesday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 5,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Wednesday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 3,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Wednesday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 4,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Thursday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 5,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Thursday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Thursday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Friday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Friday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Friday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Saturday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 3,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Saturday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 3,
+    "UoM": "Hours",
+    "Equipment": "Tubeway",
+    "Day": "Saturday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 1,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Sunday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Sunday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 1,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Sunday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 1,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Monday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 4,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Monday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Monday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Tuesday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 7,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Tuesday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 3,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Tuesday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Wednesday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 7,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Wednesday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 3,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Wednesday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 2,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Thursday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 7,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Thursday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 3,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Thursday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 1,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Friday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 3,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Friday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 1,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Friday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Inventory/S+R",
+    "Task": "Facility",
+    "Count": 1,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Saturday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "Sanitation",
+    "Task": "Facility",
+    "Count": 3,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Saturday"
+  },
+  {
+    "Cycle": "combine",
+    "Meal": "All",
+    "Product": "QA",
+    "Task": "Facility",
+    "Count": 1,
+    "UoM": "Hours",
+    "Equipment": "Pershing",
+    "Day": "Saturday"
+  }
+]
