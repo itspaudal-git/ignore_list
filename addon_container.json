@@ -285,6 +285,11 @@
     "Master Task": "Delete"
   },
   {
+    "Name": "Ground Turkey Burger 6oz",
+    "Container": "Discard This Wiptag",
+    "Master Task": "Delete"
+  },
+  {
     "Name": "Garlic Herb Ricotta Sauce",
     "Container": "Sachet",
     "Master Task": "Liquid Sachet Depositing"
