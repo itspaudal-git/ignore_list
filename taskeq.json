@@ -1,0 +1,197 @@
+[
+  {
+    "Facility": "Pershing",
+    "Task": "Drain",
+    "Equipment": "Drain"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 Tray Sealing Line"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "Kettle",
+    "Equipment": "Kettle-1"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "Knife",
+    "Equipment": "Knife"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "Batch Mix",
+    "Equipment": "Large Tumbler 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "Packout",
+    "Equipment": "Line 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "Planetary Mix",
+    "Equipment": "Planatery Mixer 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "Thaw",
+    "Equipment": "Thaw Frozen"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "VCM",
+    "Equipment": "Vertical Cutting Machine 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Task": "Facility",
+    "Equipment": "Warehouse"
+  },
+  {
+    "Facility": "Tubeway",
+    "Task": "Facility",
+    "Equipment": "Warehouse"
+  },
+  {
+    "Facility": "Tubeway",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 1"
+  },
+  {
+    "Facility": "Tubeway",
+    "Task": "Liquid Sachet Depositing",
+    "Equipment": "Dangan"
+  },
+  {
+    "Facility": "Tubeway",
+    "Task": "Dry Sachet Depositing",
+    "Equipment": "Dry Bucket 1"
+  },
+  {
+    "Facility": "Tubeway",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 Tray Sealing Line"
+  },
+  {
+    "Facility": "Tubeway",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning 1"
+  },
+  {
+    "Facility": "Tubeway",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1"
+  },
+  {
+    "Facility": "Tubeway",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Liquid Sachet Depositing",
+    "Equipment": "Dangan"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Drain",
+    "Equipment": "Drain"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Dry Sachet Depositing",
+    "Equipment": "Dry Bucket 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Kettle",
+    "Equipment": "Kettle-80 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Knife",
+    "Equipment": "Knife"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Planetary Mix",
+    "Equipment": "Planatery Mixer 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Open",
+    "Equipment": "Pneumatic Can Opener 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Thaw",
+    "Equipment": "Thaw Frozen"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Skillet",
+    "Equipment": "Tilt Skillet 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Batch Mix",
+    "Equipment": "Tumbler 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "VCM",
+    "Equipment": "Vertical Cutting Machine 1"
+  }
+]
