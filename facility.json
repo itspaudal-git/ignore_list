@@ -462,138 +462,6 @@
     "Facility": "Pershing"
   },
   {
-    "Cycle": 1,
-    "Meal": "All",
-    "Product": "Packout, Saturday",
-    "Task": "Packout",
-    "Count": "",
-    "UoM": "Boxes",
-    "Equipment": "Line 1",
-    "Day": "Saturday",
-    "Facility": "Tubeway"
-  },
-  {
-    "Cycle": 1,
-    "Meal": "All",
-    "Product": "Packout, Saturday",
-    "Task": "Packout",
-    "Count": "",
-    "UoM": "Boxes",
-    "Equipment": "Line 2",
-    "Day": "Saturday",
-    "Facility": "Tubeway"
-  },
-  {
-    "Cycle": 1,
-    "Meal": "All",
-    "Product": "Packout, Monday",
-    "Task": "Packout",
-    "Count": "",
-    "UoM": "Boxes",
-    "Equipment": "Line 1",
-    "Day": "Monday",
-    "Facility": "Tubeway"
-  },
-  {
-    "Cycle": 2,
-    "Meal": "All",
-    "Product": "Packout, Monday",
-    "Task": "Packout",
-    "Count": "",
-    "UoM": "Boxes",
-    "Equipment": "Line 1",
-    "Day": "Monday",
-    "Facility": "Tubeway"
-  },
-  {
-    "Cycle": 2,
-    "Meal": "All",
-    "Product": "Packout, Tuesday",
-    "Task": "Packout",
-    "Count": "",
-    "UoM": "Boxes",
-    "Equipment": "Line 1",
-    "Day": "Tuesday",
-    "Facility": "Tubeway"
-  },
-  {
-    "Cycle": 2,
-    "Meal": "All",
-    "Product": "Packout, Wednesday",
-    "Task": "Packout",
-    "Count": "",
-    "UoM": "Boxes",
-    "Equipment": "Line 1",
-    "Day": "Tuesday",
-    "Facility": "Tubeway"
-  },
-  {
-    "Cycle": 1,
-    "Meal": "All",
-    "Product": "Packout, Saturday",
-    "Task": "Packout",
-    "Count": "",
-    "UoM": "Boxes",
-    "Equipment": "Line 1",
-    "Day": "Saturday",
-    "Facility": "Westvala"
-  },
-  {
-    "Cycle": 1,
-    "Meal": "All",
-    "Product": "Packout, Saturday",
-    "Task": "Packout",
-    "Count": "",
-    "UoM": "Boxes",
-    "Equipment": "Line 1",
-    "Day": "Saturday",
-    "Facility": "Westvala"
-  },
-  {
-    "Cycle": 1,
-    "Meal": "All",
-    "Product": "Packout, Monday",
-    "Task": "Packout",
-    "Count": "",
-    "UoM": "Boxes",
-    "Equipment": "Line 1",
-    "Day": "Monday",
-    "Facility": "Westvala"
-  },
-  {
-    "Cycle": 2,
-    "Meal": "All",
-    "Product": "Packout, Monday",
-    "Task": "Packout",
-    "Count": "",
-    "UoM": "Boxes",
-    "Equipment": "Line 1",
-    "Day": "Monday",
-    "Facility": "Westvala"
-  },
-  {
-    "Cycle": 2,
-    "Meal": "All",
-    "Product": "Packout, Tuesday",
-    "Task": "Packout",
-    "Count": "",
-    "UoM": "Boxes",
-    "Equipment": "Line 1",
-    "Day": "Tuesday",
-    "Facility": "Westvala"
-  },
-  {
-    "Cycle": 2,
-    "Meal": "All",
-    "Product": "Packout, Tuesday",
-    "Task": "Packout",
-    "Count": "",
-    "UoM": "Boxes",
-    "Equipment": "Line 1",
-    "Day": "Tuesday",
-    "Facility": "Westvala"
-  },
-  {
     "Cycle": "combine",
     "Meal": "All",
     "Product": "Inventory/S+R",
@@ -822,6 +690,138 @@
     "UoM": "Hours",
     "Equipment": "QA",
     "Day": "Saturday",
+    "Facility": "Westvala"
+  },
+  {
+    "Cycle": 1,
+    "Meal": "All",
+    "Product": "Packout, Saturday",
+    "Task": "Packout",
+    "Count": "",
+    "UoM": "Boxes",
+    "Equipment": "Line 1",
+    "Day": "Saturday",
+    "Facility": "Tubeway"
+  },
+  {
+    "Cycle": 1,
+    "Meal": "All",
+    "Product": "Packout, Saturday",
+    "Task": "Packout",
+    "Count": "",
+    "UoM": "Boxes",
+    "Equipment": "Line 2",
+    "Day": "Saturday",
+    "Facility": "Tubeway"
+  },
+  {
+    "Cycle": 1,
+    "Meal": "All",
+    "Product": "Packout, Monday",
+    "Task": "Packout",
+    "Count": "",
+    "UoM": "Boxes",
+    "Equipment": "Line 1",
+    "Day": "Monday",
+    "Facility": "Tubeway"
+  },
+  {
+    "Cycle": 2,
+    "Meal": "All",
+    "Product": "Packout, Monday",
+    "Task": "Packout",
+    "Count": "",
+    "UoM": "Boxes",
+    "Equipment": "Line 1",
+    "Day": "Monday",
+    "Facility": "Tubeway"
+  },
+  {
+    "Cycle": 2,
+    "Meal": "All",
+    "Product": "Packout, Tuesday",
+    "Task": "Packout",
+    "Count": "",
+    "UoM": "Boxes",
+    "Equipment": "Line 1",
+    "Day": "Tuesday",
+    "Facility": "Tubeway"
+  },
+  {
+    "Cycle": 2,
+    "Meal": "All",
+    "Product": "Packout, Wednesday",
+    "Task": "Packout",
+    "Count": "",
+    "UoM": "Boxes",
+    "Equipment": "Line 1",
+    "Day": "Tuesday",
+    "Facility": "Tubeway"
+  },
+  {
+    "Cycle": 1,
+    "Meal": "All",
+    "Product": "Packout, Saturday",
+    "Task": "Packout",
+    "Count": "",
+    "UoM": "Boxes",
+    "Equipment": "Line 1",
+    "Day": "Saturday",
+    "Facility": "Westvala"
+  },
+  {
+    "Cycle": 1,
+    "Meal": "All",
+    "Product": "Packout, Saturday",
+    "Task": "Packout",
+    "Count": "",
+    "UoM": "Boxes",
+    "Equipment": "Line 1",
+    "Day": "Saturday",
+    "Facility": "Westvala"
+  },
+  {
+    "Cycle": 1,
+    "Meal": "All",
+    "Product": "Packout, Monday",
+    "Task": "Packout",
+    "Count": "",
+    "UoM": "Boxes",
+    "Equipment": "Line 1",
+    "Day": "Monday",
+    "Facility": "Westvala"
+  },
+  {
+    "Cycle": 2,
+    "Meal": "All",
+    "Product": "Packout, Monday",
+    "Task": "Packout",
+    "Count": "",
+    "UoM": "Boxes",
+    "Equipment": "Line 1",
+    "Day": "Monday",
+    "Facility": "Westvala"
+  },
+  {
+    "Cycle": 2,
+    "Meal": "All",
+    "Product": "Packout, Tuesday",
+    "Task": "Packout",
+    "Count": "",
+    "UoM": "Boxes",
+    "Equipment": "Line 1",
+    "Day": "Tuesday",
+    "Facility": "Westvala"
+  },
+  {
+    "Cycle": 2,
+    "Meal": "All",
+    "Product": "Packout, Tuesday",
+    "Task": "Packout",
+    "Count": "",
+    "UoM": "Boxes",
+    "Equipment": "Line 1",
+    "Day": "Tuesday",
     "Facility": "Westvala"
   }
 ]
