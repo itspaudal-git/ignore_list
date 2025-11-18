@@ -70,6 +70,16 @@
     "Equipment": "Warehouse"
   },
   {
+    "Facility": "Pershing",
+    "Task": "Open",
+    "Equipment": "Pneumatic Can Opener 1"
+  },
+  {
+    "Facility": "Tubeway",
+    "Task": "Open",
+    "Equipment": "Open"
+  },
+  {
     "Facility": "Tubeway",
     "Task": "Facility",
     "Equipment": "Warehouse"
