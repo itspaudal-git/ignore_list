@@ -52,7 +52,7 @@
   {
     "Facility": "Pershing",
     "Task": "Thaw",
-    "Equipment": "Thaw Frozen"
+    "Equipment": "Thaw"
   },
   {
     "Facility": "Pershing",
@@ -187,7 +187,7 @@
   {
     "Facility": "Westvala",
     "Task": "Thaw",
-    "Equipment": "Thaw Frozen"
+    "Equipment": "Thaw"
   },
   {
     "Facility": "Westvala",
