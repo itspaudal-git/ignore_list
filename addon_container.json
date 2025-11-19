@@ -1,7 +1,7 @@
 [
   {
     "Name": "Butter, Chip, Grassland, Salted",
-    "Container": "Discard This Wiptag",
+    "Container": "no wip",
     "Master Task": ""
   },
   {
@@ -251,7 +251,7 @@
   },
   {
     "Name": "Soft Pretzel Bite Pouch 2.6oz",
-    "Container": "Discard This Wiptag",
+    "Container": "no wip",
     "Master Task": ""
   },
   {
@@ -341,7 +341,7 @@
   },
   {
     "Name": "Strawberry Preserves, Dickinson",
-    "Container": "Discard This Wiptag",
+    "Container": "no wip",
     "Master Task": ""
   },
   {
@@ -371,7 +371,7 @@
   },
   {
     "Name": "Chicken Egg Roll",
-    "Container": "Discard This Wiptag",
+    "Container": "no wip",
     "Master Task": ""
   },
   {
@@ -561,12 +561,12 @@
   },
   {
     "Name": "Soy Sauce, Packet",
-    "Container": "Discard This Wiptag",
+    "Container": "no wip",
     "Master Task": ""
   },
   {
     "Name": "Vanilla Icing Packet, 1.5oz, 43g",
-    "Container": "Discard This Wiptag",
+    "Container": "no wip",
     "Master Task": ""
   }
 ]
