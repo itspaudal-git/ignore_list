@@ -81,6 +81,11 @@
   },
   {
     "Facility": "Tubeway",
+    "Task": "Thaw",
+    "Equipment": "Thaw"
+  },
+  {
+    "Facility": "Tubeway",
     "Task": "Facility",
     "Equipment": "Warehouse"
   },
