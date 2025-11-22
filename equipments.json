@@ -1,742 +1,890 @@
 [
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
+    "Type": "Cooking",
+    "Task": "Open",
+    "Equipment": "Pneumatic Can Opener 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Open",
+    "Equipment": "Pneumatic Can Opener 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Open",
     "Equipment": "Open"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Open"
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-1"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Open"
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-2"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Kettle"
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-3"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Kettle"
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle 4-60"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Kettle"
+    "Type": "Cooking",
+    "Task": "Skillet",
+    "Equipment": "Skillet 1"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Kettle"
+    "Type": "Cooking",
+    "Task": "Skillet",
+    "Equipment": "Skillet 2"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Skillet"
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 1"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Skillet"
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 2"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Oven"
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 3"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Oven"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 1"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Oven"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 2"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 3"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 1 3rd"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 2 3rd"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 3 3rd"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 3rd"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 3rd"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 3rd"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Cooking",
+    "Task": "Planetary Mix",
+    "Equipment": "Planatery Mixer 1"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Cooking",
+    "Task": "Planetary Mix",
+    "Equipment": "Planatery Mixer 2"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Planetary Mix"
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 Tray Sealing Line"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Planetary Mix"
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2 Tray Sealing Line"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Tray Portioning and Sealing"
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 3rd Tray Sealing Line"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Tray Portioning and Sealing"
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2 3rd Tray Sealing Line"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Tray Portioning and Sealing"
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "SealMax Tray Sealing Line"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Tray Portioning and Sealing"
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 1"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Tray Portioning and Sealing"
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 2"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Sauce Mix"
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 3"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Sauce Mix"
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 4"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Sauce Mix"
+    "Type": "Cooking",
+    "Task": "VCM",
+    "Equipment": "Vertical Cutting Machine 1"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Sauce Mix"
-  },
-  {
-    "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "VCM"
-  },
-  {
-    "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Thaw"
+    "Type": "Cooking",
+    "Task": "Thaw",
+    "Equipment": "Thaw Frozen"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Cooking",
-    "Equipment": "Thaw"
+    "Type": "Cooking",
+    "Task": "Thaw",
+    "Equipment": "Thaw Frozen"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Thaw"
+    "Type": "Cooking",
+    "Task": "Thaw",
+    "Equipment": "Thaw Frozen"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
+    "Type": "Cooking",
+    "Task": "Drain",
     "Equipment": "Drain"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
+    "Type": "Cooking",
+    "Task": "Knife",
     "Equipment": "Knife"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Batch Mix"
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Large Tumbler 1"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Batch Mix"
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Large Tumbler 2"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Batch Mix"
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Small Tumbler 1"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Batch Mix"
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Bowl Mixing Station 1"
   },
   {
     "Facility": "Pershing",
-    "Task": "Cooking",
-    "Equipment": "Batch Mix"
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Bowl Mixing Station 2"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Facility"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Warehouse"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Facility"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Sanitation"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
-    "Equipment": "Facility"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "QA"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Packout"
+    "Type": "Portioning",
+    "Task": "Packout",
+    "Equipment": "Line 1"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Packout"
+    "Type": "Portioning",
+    "Task": "Packout",
+    "Equipment": "Line 2"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Facility"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Warehouse"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Facility"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Sanitation"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Facility"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "QA"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Packout"
+    "Type": "Portioning",
+    "Task": "Packout",
+    "Equipment": "Line 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Packout"
+    "Type": "Portioning",
+    "Task": "Packout",
+    "Equipment": "Line 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Facility"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Warehouse"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Facility"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Sanitation"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Facility"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "QA"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Facility"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Warehouse10"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Facility"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Sanitation10"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Facility"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "QA10"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
+    "Type": "Portioning",
+    "Task": "Open",
     "Equipment": "Open"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
+    "Type": "Portioning",
+    "Task": "Thaw",
     "Equipment": "Thaw"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning 1"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning 2"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning 3"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning 4"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Tray Portioning and Sealing"
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 Tray Sealing Line"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Liquid Sachet Depositing"
+    "Type": "Portioning",
+    "Task": "Liquid Sachet Depositing",
+    "Equipment": "Dangan"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Liquid Sachet Depositing"
+    "Type": "Portioning",
+    "Task": "Liquid Sachet Depositing",
+    "Equipment": "Dangan <80 g"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Dry Sachet Depositing"
+    "Type": "Portioning",
+    "Task": "Dry Sachet Depositing",
+    "Equipment": "Dry Bucket 1"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Dry Sachet Depositing"
+    "Type": "Portioning",
+    "Task": "Dry Sachet Depositing",
+    "Equipment": "Dry Bucket 2"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Dry Sachet Depositing"
+    "Type": "Portioning",
+    "Task": "Dry Sachet Depositing",
+    "Equipment": "Dry Bucket 3"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Veggie Sealing"
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Veggie Sealing"
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Band Sealing"
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 1"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Band Sealing"
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 2"
   },
   {
     "Facility": "Tubeway",
-    "Task": "Portioning",
-    "Equipment": "Band Sealing"
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 3"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Open"
+    "Type": "Cooking",
+    "Task": "Open",
+    "Equipment": "Pneumatic Can Opener 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Open"
+    "Type": "Cooking",
+    "Task": "Open",
+    "Equipment": "Pneumatic Can Opener 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Kettle"
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-80 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Kettle"
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-80 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Kettle"
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-80 3"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Kettle"
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-60"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Skillet"
+    "Type": "Cooking",
+    "Task": "Skillet",
+    "Equipment": "Tilt Skillet 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Skillet"
+    "Type": "Cooking",
+    "Task": "Skillet",
+    "Equipment": "Tilt Skillet 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Skillet"
+    "Type": "Cooking",
+    "Task": "Skillet",
+    "Equipment": "Candy Burner 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Skillet"
+    "Type": "Cooking",
+    "Task": "Skillet",
+    "Equipment": "Candy Burner 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Oven"
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Oven"
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Planetary Mix"
+    "Type": "Cooking",
+    "Task": "Planetary Mix",
+    "Equipment": "Planatery Mixer 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Planetary Mix"
+    "Type": "Cooking",
+    "Task": "Planetary Mix",
+    "Equipment": "Planatery Mixer 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Planetary Mix"
+    "Type": "Cooking",
+    "Task": "Planetary Mix",
+    "Equipment": "Planatery Mixer 3"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Sauce Mix"
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Sauce Mix"
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Sauce Mix"
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 3"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "VCM"
+    "Type": "Cooking",
+    "Task": "VCM",
+    "Equipment": "Vertical Cutting Machine 1"
   },
   {
     "Facility": "Pershing",
-    "Task": "Portioning",
+    "Type": "Portioning",
+    "Task": "Thaw",
     "Equipment": "Thaw"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
+    "Type": "Portioning",
+    "Task": "Thaw",
     "Equipment": "Thaw"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
+    "Type": "Cooking",
+    "Task": "Drain",
     "Equipment": "Drain"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
+    "Type": "Cooking",
+    "Task": "Knife",
     "Equipment": "Knife"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Batch Mix"
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Tumbler 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Batch Mix"
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Tumbler 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Batch Mix"
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "New Tumbler"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Batch Mix"
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Bowl Mixing Station 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Cooking",
-    "Equipment": "Batch Mix"
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Bowl Mixing Station 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
+    "Type": "Portioning",
+    "Task": "Open",
     "Equipment": "Open"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 3"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 4"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 5"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 6"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 7"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 8"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 9"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 10"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 11"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Cup Portioning"
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Prep Station 12"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 3"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 4"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 5"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 6"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 7"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 8"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 9"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 10"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 11"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Sleeving"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 12"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Tray Portioning and Sealing"
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Tray Portioning and Sealing"
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Tray Portioning and Sealing"
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GT4"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Liquid Sachet Depositing"
+    "Type": "Portioning",
+    "Task": "Liquid Sachet Depositing",
+    "Equipment": "Dangan <80 g"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Liquid Sachet Depositing"
+    "Type": "Portioning",
+    "Task": "Liquid Sachet Depositing",
+    "Equipment": "Dangan"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Dry Sachet Depositing"
+    "Type": "Portioning",
+    "Task": "Dry Sachet Depositing",
+    "Equipment": "Dry Bucket 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Dry Sachet Depositing"
+    "Type": "Portioning",
+    "Task": "Dry Sachet Depositing",
+    "Equipment": "Dry Bucket 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Dry Sachet Depositing"
+    "Type": "Portioning",
+    "Task": "Dry Sachet Depositing",
+    "Equipment": "Dry Bucket 3"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Band Sealing"
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 1"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Band Sealing"
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 2"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Band Sealing"
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 3"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Band Sealing"
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 4"
   },
   {
     "Facility": "Westvala",
-    "Task": "Portioning",
-    "Equipment": "Band Sealing"
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 5"
   }
 ]
