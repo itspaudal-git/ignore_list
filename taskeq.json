@@ -26,11 +26,6 @@
   },
   {
     "Facility": "Pershing",
-    "Task": "Packout",
-    "Equipment": "Line 1"
-  },
-  {
-    "Facility": "Pershing",
     "Task": "Cup Portioning",
     "Equipment": "Manual Portioning Station 1"
   },
@@ -52,7 +47,7 @@
   {
     "Facility": "Pershing",
     "Task": "Thaw",
-    "Equipment": "Thaw"
+    "Equipment": "Thaw Frozen"
   },
   {
     "Facility": "Pershing",
@@ -82,7 +77,7 @@
   {
     "Facility": "Tubeway",
     "Task": "Thaw",
-    "Equipment": "Thaw"
+    "Equipment": "Thaw Frozen"
   },
   {
     "Facility": "Tubeway",
@@ -117,7 +112,7 @@
   {
     "Facility": "Tubeway",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1"
+    "Equipment": "Sleeving Station 1 - Short Boi"
   },
   {
     "Facility": "Tubeway",
@@ -132,7 +127,7 @@
   {
     "Facility": "Westvala",
     "Task": "Liquid Sachet Depositing",
-    "Equipment": "Dangan"
+    "Equipment": "Dangan <80 g"
   },
   {
     "Facility": "Westvala",
@@ -177,7 +172,7 @@
   {
     "Facility": "Westvala",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 1"
+    "Equipment": "Sleeving Station 1 - Short Boi"
   },
   {
     "Facility": "Westvala",
@@ -187,7 +182,7 @@
   {
     "Facility": "Westvala",
     "Task": "Thaw",
-    "Equipment": "Thaw"
+    "Equipment": "Thaw Frozen"
   },
   {
     "Facility": "Westvala",
