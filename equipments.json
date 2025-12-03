@@ -2,74 +2,32 @@
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Open",
-    "Equipment": "Pneumatic Can Opener 1"
+    "Task": "Batch Mix",
+    "Equipment": "Large Tumbler 1"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Open",
-    "Equipment": "Pneumatic Can Opener 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Open",
-    "Equipment": "Open"
+    "Task": "Batch Mix",
+    "Equipment": "Large Tumbler 2"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Kettle",
-    "Equipment": "Kettle-1"
+    "Task": "Batch Mix",
+    "Equipment": "Small Tumbler 1"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Kettle",
-    "Equipment": "Kettle-2"
+    "Task": "Batch Mix",
+    "Equipment": "Bowl Mixing Station 1"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Kettle",
-    "Equipment": "Kettle-3"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Kettle",
-    "Equipment": "Kettle 4-60"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Skillet",
-    "Equipment": "Skillet 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Skillet",
-    "Equipment": "Skillet 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Oven",
-    "Equipment": "Unox Combi Oven 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Oven",
-    "Equipment": "Unox Combi Oven 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Oven",
-    "Equipment": "Unox Combi Oven 3"
+    "Task": "Batch Mix",
+    "Equipment": "Bowl Mixing Station 2"
   },
   {
     "Facility": "Pershing",
@@ -109,6 +67,144 @@
   },
   {
     "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Drain",
+    "Equipment": "Drain"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Warehouse"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Sanitation"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "QA"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-3"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle 4-60"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Knife",
+    "Equipment": "Knife"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Open",
+    "Equipment": "Pneumatic Can Opener 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Open",
+    "Equipment": "Pneumatic Can Opener 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Open",
+    "Equipment": "Open"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 3"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Planetary Mix",
+    "Equipment": "Planatery Mixer 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Planetary Mix",
+    "Equipment": "Planatery Mixer 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 3"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 4"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Skillet",
+    "Equipment": "Skillet 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Skillet",
+    "Equipment": "Skillet 2"
+  },
+  {
+    "Facility": "Pershing",
     "Type": "Portioning",
     "Task": "Sleeving",
     "Equipment": "Sleeving Station 1"
@@ -124,6 +220,18 @@
     "Type": "Portioning",
     "Task": "Sleeving",
     "Equipment": "Sleeving Station 3"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Cooking",
+    "Task": "Thaw",
+    "Equipment": "Thaw Frozen"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Cooking",
+    "Task": "Thaw",
+    "Equipment": "Thaw Frozen"
   },
   {
     "Facility": "Pershing",
@@ -146,14 +254,14 @@
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Planetary Mix",
-    "Equipment": "Planatery Mixer 1"
+    "Task": "Thaw",
+    "Equipment": "Thaw Frozen"
   },
   {
     "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Planetary Mix",
-    "Equipment": "Planatery Mixer 2"
+    "Type": "Portioning",
+    "Task": "Thaw",
+    "Equipment": "Thaw"
   },
   {
     "Facility": "Pershing",
@@ -184,114 +292,6 @@
     "Type": "Portioning",
     "Task": "Tray Portioning and Sealing",
     "Equipment": "SealMax Tray Sealing Line"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Sauce Mix",
-    "Equipment": "Stick Blender STANDARD 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Sauce Mix",
-    "Equipment": "Stick Blender STANDARD 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Sauce Mix",
-    "Equipment": "Stick Blender STANDARD 3"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Sauce Mix",
-    "Equipment": "Stick Blender STANDARD 4"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "VCM",
-    "Equipment": "Vertical Cutting Machine 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Thaw",
-    "Equipment": "Thaw Frozen"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Cooking",
-    "Task": "Thaw",
-    "Equipment": "Thaw Frozen"
-  },
-  {
-    "Facility": "Westvala",
-    "Type": "Cooking",
-    "Task": "Thaw",
-    "Equipment": "Thaw Frozen"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Drain",
-    "Equipment": "Drain"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Knife",
-    "Equipment": "Knife"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Batch Mix",
-    "Equipment": "Large Tumbler 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Batch Mix",
-    "Equipment": "Large Tumbler 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Batch Mix",
-    "Equipment": "Small Tumbler 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Batch Mix",
-    "Equipment": "Bowl Mixing Station 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Batch Mix",
-    "Equipment": "Bowl Mixing Station 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "Warehouse"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "Sanitation"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "QA"
   },
   {
     "Facility": "Tubeway",
@@ -411,19 +411,163 @@
     "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1"
+    "Equipment": "Sleeving Station 1 - Short Boi"
   },
   {
     "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2"
+    "Equipment": "Sleeving Station 1 - Tall Boi"
   },
   {
     "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3"
+    "Equipment": "Sleeving Station 1 - Drop Seelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Family Meal"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - NGT Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 - Short Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 - Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 - Drop Seelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 - Family Meal"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 - NGT Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 - Short Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 - Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 - Drop Seelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 - Family Meal"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 - NGT Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 - Unsealed Meal Extra"
   },
   {
     "Facility": "Tubeway",
@@ -441,7 +585,7 @@
     "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Liquid Sachet Depositing",
-    "Equipment": "Dangan <80 g"
+    "Equipment": "Dangan >60 g"
   },
   {
     "Facility": "Tubeway",
@@ -471,7 +615,7 @@
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Veggie Sealing",
-    "Equipment": "Veggie Sealer 1"
+    "Equipment": "Veggie Sealer 1 - Broccoli"
   },
   {
     "Facility": "Tubeway",
@@ -490,6 +634,84 @@
     "Type": "Portioning",
     "Task": "Band Sealing",
     "Equipment": "Bandsealer 3"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 1 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 2 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 3 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Baby Spinach"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Green Beans"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Mini Peppers"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Cherry Tomatoes"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Brussels"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Mushrooms"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Kale"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Power Crunch"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Cabbage Mix"
   },
   {
     "Facility": "Westvala",
@@ -607,9 +829,9 @@
   },
   {
     "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Thaw",
-    "Equipment": "Thaw"
+    "Type": "Cooking",
+    "Task": "VCM",
+    "Equipment": "Vertical Cutting Machine 1"
   },
   {
     "Facility": "Westvala",
@@ -741,6 +963,432 @@
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Short Boi"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Tall Boi"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Drop Seelf"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Family Meal"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - NGT Tall Boi"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
     "Equipment": "Prep Station 1"
   },
   {
@@ -808,6 +1456,318 @@
     "Type": "Portioning",
     "Task": "Sleeving",
     "Equipment": "Prep Station 12"
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
   },
   {
     "Facility": "Westvala",
