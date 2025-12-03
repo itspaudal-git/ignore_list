@@ -1,10 +1,10 @@
 [
   {
     "Site": "master_task",
-    "Status": false
+    "Status": true
   },
   {
     "Site": "verification",
-    "Status": false
+    "Status": true
   }
 ]
