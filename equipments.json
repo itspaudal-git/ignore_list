@@ -585,7 +585,7 @@
     "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Liquid Sachet Depositing",
-    "Equipment": "Dangan >60 g"
+    "Equipment": "Dangan <80 g"
   },
   {
     "Facility": "Tubeway",
@@ -1791,13 +1791,13 @@
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Liquid Sachet Depositing",
-    "Equipment": "Dangan <80 g"
+    "Equipment": "Dangan"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Liquid Sachet Depositing",
-    "Equipment": "Dangan"
+    "Equipment": "Dangan <80 g"
   },
   {
     "Facility": "Westvala",
