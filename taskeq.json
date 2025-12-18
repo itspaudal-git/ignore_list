@@ -102,7 +102,7 @@
   {
     "Facility": "Tubeway",
     "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1 Tray Sealing Line"
+    "Equipment": "GTRe 1 Tray Sealing Line 1st shift"
   },
   {
     "Facility": "Tubeway",
@@ -117,7 +117,7 @@
   {
     "Facility": "Tubeway",
     "Task": "Veggie Sealing",
-    "Equipment": "Veggie Sealer 1"
+    "Equipment": "Veggie Sealer 1 - Broccoli"
   },
   {
     "Facility": "Westvala",
@@ -172,7 +172,7 @@
   {
     "Facility": "Westvala",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 - Short Boi"
+    "Equipment": "Sleeving Station 5 - Short Boi"
   },
   {
     "Facility": "Westvala",
