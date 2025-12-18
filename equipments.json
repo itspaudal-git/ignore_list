@@ -21,6 +21,12 @@
     "Facility": "Pershing",
     "Type": "Cooking",
     "Task": "Batch Mix",
+    "Equipment": "Small Tumbler 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Batch Mix",
     "Equipment": "Bowl Mixing Station 1"
   },
   {
@@ -46,6 +52,24 @@
     "Type": "Portioning",
     "Task": "Cup Portioning",
     "Equipment": "Manual Portioning Station 3"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 1 2nd"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 2 2nd"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 3 2nd"
   },
   {
     "Facility": "Pershing",
@@ -222,16 +246,22 @@
     "Equipment": "Sleeving Station 3"
   },
   {
-    "Facility": "Tubeway",
-    "Type": "Cooking",
-    "Task": "Thaw",
-    "Equipment": "Thaw Frozen"
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 2nd"
   },
   {
-    "Facility": "Westvala",
-    "Type": "Cooking",
-    "Task": "Thaw",
-    "Equipment": "Thaw Frozen"
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 2nd"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 2nd"
   },
   {
     "Facility": "Pershing",
@@ -279,6 +309,18 @@
     "Facility": "Pershing",
     "Type": "Portioning",
     "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 2nd Tray Sealing Line"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2 2nd Tray Sealing Line"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
     "Equipment": "GTRe 1 3rd Tray Sealing Line"
   },
   {
@@ -295,6 +337,12 @@
   },
   {
     "Facility": "Tubeway",
+    "Type": "Cooking",
+    "Task": "Thaw",
+    "Equipment": "Thaw Frozen"
+  },
+  {
+    "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Packout",
     "Equipment": "Line 1"
@@ -322,54 +370,6 @@
     "Type": "Portioning",
     "Task": "Facility",
     "Equipment": "QA"
-  },
-  {
-    "Facility": "Westvala",
-    "Type": "Portioning",
-    "Task": "Packout",
-    "Equipment": "Line 1"
-  },
-  {
-    "Facility": "Westvala",
-    "Type": "Portioning",
-    "Task": "Packout",
-    "Equipment": "Line 2"
-  },
-  {
-    "Facility": "Westvala",
-    "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "Warehouse"
-  },
-  {
-    "Facility": "Westvala",
-    "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "Sanitation"
-  },
-  {
-    "Facility": "Westvala",
-    "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "QA"
-  },
-  {
-    "Facility": "Westvala",
-    "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "Warehouse10"
-  },
-  {
-    "Facility": "Westvala",
-    "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "Sanitation10"
-  },
-  {
-    "Facility": "Westvala",
-    "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "QA10"
   },
   {
     "Facility": "Tubeway",
@@ -465,6 +465,18 @@
     "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Tall Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
     "Equipment": "Sleeving Station 2 - Short Boi"
   },
   {
@@ -514,6 +526,18 @@
     "Type": "Portioning",
     "Task": "Sleeving",
     "Equipment": "Sleeving Station 2 - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 - Tall Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 - Drop Shelf Auto"
   },
   {
     "Facility": "Tubeway",
@@ -572,8 +596,224 @@
   {
     "Facility": "Tubeway",
     "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 - Tall Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Short Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Drop Seelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Family Meal"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - NGT Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Tall Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Short Boi"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Tall Boi"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Drop Seelf"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Family Meal"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - NGT Tall Boi"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Tall Auto"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Short Boi"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Tall Boi"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Drop Seelf"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Family Meal"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - NGT Tall Boi"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Tall Auto"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
     "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1 Tray Sealing Line"
+    "Equipment": "GTRe 1 Tray Sealing Line 1st shift"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 Tray Sealing Line Split Shift"
   },
   {
     "Facility": "Tubeway",
@@ -609,13 +849,133 @@
     "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Veggie Sealing",
-    "Equipment": "Veggie Sealer 1"
+    "Equipment": "Veggie Sealer 1 - Broccoli"
   },
   {
-    "Facility": "Westvala",
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Baby Spinach"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Green Beans"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Mini Peppers"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Cherry Tomatoes"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Brussels"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Mushrooms"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Kale"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Power Crunch"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Cabbage Mix"
+  },
+  {
+    "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Veggie Sealing",
     "Equipment": "Veggie Sealer 1 - Broccoli"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1.5 - Broccoli"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1.5 - Baby Spinach"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1.5 - Green Beans"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1.5 - Mini Peppers"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1.5 - Cherry Tomatoes"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1.5 - Brussels"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1.5 - Mushrooms"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1.5 - Kale"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1.5 - Power Crunch"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1.5 - Cabbage Mix"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1.5 - Broccoli"
   },
   {
     "Facility": "Tubeway",
@@ -654,10 +1014,64 @@
     "Equipment": "Bandsealer 3 - Bagged Meal Extra"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Cooking",
+    "Task": "Thaw",
+    "Equipment": "Thaw Frozen"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Packout",
+    "Equipment": "Line 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Packout",
+    "Equipment": "Line 2"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Warehouse"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Sanitation"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "QA"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Warehouse10"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Sanitation10"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "QA10"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Broccoli"
   },
   {
     "Facility": "Westvala",
@@ -712,6 +1126,12 @@
     "Type": "Portioning",
     "Task": "Veggie Sealing",
     "Equipment": "Veggie Sealer 1 - Cabbage Mix"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Broccoli"
   },
   {
     "Facility": "Westvala",
@@ -784,6 +1204,12 @@
     "Type": "Cooking",
     "Task": "Oven",
     "Equipment": "Unox Combi Oven 2"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 3"
   },
   {
     "Facility": "Westvala",
@@ -1014,760 +1440,346 @@
     "Equipment": "Sleeving Station 1 - Unsealed Meal Extra"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 - Tall Auto"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 1"
+    "Equipment": "Sleeving Station 1 - Drop Shelf Auto"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 1"
+    "Equipment": "Sleeving Station 2 - Short Boi"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 1"
+    "Equipment": "Sleeving Station 2 - Tall Boi"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 1"
+    "Equipment": "Sleeving Station 2 - Drop Seelf"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 1"
+    "Equipment": "Sleeving Station 2 - Family Meal"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 1"
+    "Equipment": "Sleeving Station 2 - NGT Drop Shelf"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 1"
+    "Equipment": "Sleeving Station 2 - NGT Tall Boi"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 1"
+    "Equipment": "Sleeving Station 2 - Bagged Meal Extra"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 1"
+    "Equipment": "Sleeving Station 2 - Sealed Meal Extra"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 1"
+    "Equipment": "Sleeving Station 2 - Unsealed Meal Extra"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 1"
+    "Equipment": "Sleeving Station 2 - Tall Auto"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 2"
+    "Equipment": "Sleeving Station 2 - Drop Shelf Auto"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 3"
+    "Equipment": "Sleeving Station 3 - Short Boi"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 4"
+    "Equipment": "Sleeving Station 3 - Tall Boi"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 5"
+    "Equipment": "Sleeving Station 3 - Drop Seelf"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 6"
+    "Equipment": "Sleeving Station 3 - Family Meal"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 7"
+    "Equipment": "Sleeving Station 3 - NGT Drop Shelf"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 8"
+    "Equipment": "Sleeving Station 3 - NGT Tall Boi"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 9"
+    "Equipment": "Sleeving Station 3 - Bagged Meal Extra"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 10"
+    "Equipment": "Sleeving Station 3 - Sealed Meal Extra"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 11"
+    "Equipment": "Sleeving Station 3 - Unsealed Meal Extra"
   },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Prep Station 12"
+    "Equipment": "Sleeving Station 3 - Tall Auto"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 - Drop Shelf Auto"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Short Boi"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Tall Boi"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Drop Seelf"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Family Meal"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - NGT Drop Shelf"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - NGT Tall Boi"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Bagged Meal Extra"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Sealed Meal Extra"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Unsealed Meal Extra"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Tall Auto"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Drop Shelf Auto"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Short Boi"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Tall Boi"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Drop Seelf"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Family Meal"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - NGT Drop Shelf"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - NGT Tall Boi"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Bagged Meal Extra"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Sealed Meal Extra"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Unsealed Meal Extra"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Tall Auto"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 5 - Drop Shelf Auto"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Short Boi"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Tall Boi"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Drop Seelf"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Family Meal"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - NGT Drop Shelf"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - NGT Tall Boi"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Bagged Meal Extra"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Sealed Meal Extra"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Unsealed Meal Extra"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Tall Auto"
   },
   {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
-  },
-  {
-    "Facility": "",
-    "Type": "",
-    "Task": "",
-    "Equipment": ""
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 6 - Drop Shelf Auto"
   },
   {
     "Facility": "Westvala",
@@ -1846,5 +1858,23 @@
     "Type": "Portioning",
     "Task": "Band Sealing",
     "Equipment": "Bandsealer 5"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 1 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 2 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 3 - Bagged Meal Extra"
   }
 ]
