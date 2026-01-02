@@ -411,6 +411,24 @@
     "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
     "Equipment": "Sleeving Station 1 - Short Boi"
   },
   {
@@ -844,6 +862,12 @@
     "Type": "Portioning",
     "Task": "Dry Sachet Depositing",
     "Equipment": "Dry Bucket 3"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1"
   },
   {
     "Facility": "Tubeway",
