@@ -578,5 +578,15 @@
     "Name": "Breakfasts Sandwich, Egg Bacon Gouda, 3.7oz, 105g",
     "Container": "pre-portioned",
     "Master Task": ""
+  },
+  {
+    "Name": "Broccoli, 20-30mm, IQF, Harvest",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Broccoli Cheddar Soup Base",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
   }
 ]
