@@ -218,6 +218,18 @@
   {
     "Facility": "Pershing",
     "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Skillet 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Skillet 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
     "Task": "Skillet",
     "Equipment": "Skillet 1"
   },
@@ -1192,6 +1204,30 @@
     "Type": "Cooking",
     "Task": "Kettle",
     "Equipment": "Kettle-60"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Tilt Skillet 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Tilt Skillet 2"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Candy Burner 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Candy Burner 2"
   },
   {
     "Facility": "Westvala",
