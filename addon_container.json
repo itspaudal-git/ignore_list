@@ -588,5 +588,25 @@
     "Name": "Broccoli Cheddar Soup Base",
     "Container": "Sachet",
     "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Mac and Cheese - In Tray (250g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Thawed Tomato Soup",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Corn, Fire Roasted, IQF, Simplot",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Elotes Dressing",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
   }
 ]
