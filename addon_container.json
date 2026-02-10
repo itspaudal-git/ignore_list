@@ -623,5 +623,10 @@
     "Name": "Grated Parmesan, Sachet (15g)",
     "Container": "Dry Sachet",
     "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "IQF Root Veg Blend",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
