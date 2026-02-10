@@ -240,58 +240,400 @@
     "Equipment": "Skillet 2"
   },
   {
-    "Facility": "Pershing",
+    "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1"
+    "Equipment": "Sleeving Station 1 (2nd shift) - Short Boi"
   },
   {
-    "Facility": "Pershing",
+    "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2"
+    "Equipment": "Sleeving Station 1 (2nd shift) - Tall Boi"
   },
   {
-    "Facility": "Pershing",
+    "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3"
+    "Equipment": "Sleeving Station 1 (2nd shift) -  Drop Seelf"
   },
   {
-    "Facility": "Pershing",
+    "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 2nd"
+    "Equipment": "Sleeving Station 1 (2nd shift) - Family Meal"
   },
   {
-    "Facility": "Pershing",
+    "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 2nd"
+    "Equipment": "Sleeving Station 1 (2nd shift) - NGT Drop Shelf"
   },
   {
-    "Facility": "Pershing",
+    "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 2nd"
+    "Equipment": "Sleeving Station 1 (2nd shift) - NGT Tall Boi"
   },
   {
-    "Facility": "Pershing",
+    "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 3rd"
+    "Equipment": "Sleeving Station 1 (2nd shift) - Bagged Meal Extra"
   },
   {
-    "Facility": "Pershing",
+    "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 3rd"
+    "Equipment": "Sleeving Station 1 (2nd shift) - Sealed Meal Extra"
   },
   {
-    "Facility": "Pershing",
+    "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 3rd"
+    "Equipment": "Sleeving Station 1 (2nd shift) - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - Tall Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Short Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Drop Seelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Family Meal"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - NGT Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift)  Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Tall Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Short Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Drop Seelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Family Meal"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - NGT Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Tall Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - Short Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) -  Drop Seelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Family Meal"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - NGT Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Tall Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Short Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Drop Seelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Family Meal"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - NGT Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift)  Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Tall Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Short Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Drop Seelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Family Meal"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - NGT Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Tall Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Drop Shelf Auto"
   },
   {
     "Facility": "Pershing",
@@ -585,7 +927,7 @@
     "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 - Drop Seelf"
+    "Equipment": "Sleeving Station 3 - Drop Shelf"
   },
   {
     "Facility": "Tubeway",
@@ -717,7 +1059,7 @@
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 5 - Drop Seelf"
+    "Equipment": "Sleeving Station 5 - Drop Shelf"
   },
   {
     "Facility": "Westvala",
@@ -783,7 +1125,7 @@
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 6 - Drop Seelf"
+    "Equipment": "Sleeving Station 6 - Drop Shelf"
   },
   {
     "Facility": "Westvala",
