@@ -102,7 +102,7 @@
   {
     "Facility": "Tubeway",
     "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1 Tray Sealing Line 1st shift"
+    "Equipment": "Tinning_Armor Sleeve"
   },
   {
     "Facility": "Tubeway",
@@ -142,7 +142,7 @@
   {
     "Facility": "Westvala",
     "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1"
+    "Equipment": "Tinning_Armor Sleeve"
   },
   {
     "Facility": "Westvala",
