@@ -608,5 +608,20 @@
     "Name": "Elotes Dressing",
     "Container": "Sachet",
     "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Cheese, Swiss, Shredded",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Garlic Thyme Cream Sauce",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Grated Parmesan, Sachet (15g)",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
   }
 ]
