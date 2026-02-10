@@ -690,6 +690,24 @@
     "Equipment": "SealMax Tray Sealing Line"
   },
   {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "Tinning_Armor Sleeve"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "Tinning_Armor Sleeve"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "Tinning_Armor Sleeve"
+  },
+  {
     "Facility": "Tubeway",
     "Type": "Cooking",
     "Task": "Thaw",
