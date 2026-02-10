@@ -37,7 +37,7 @@
   {
     "Facility": "Pershing",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1"
+    "Equipment": "#N/A"
   },
   {
     "Facility": "Pershing",
@@ -112,7 +112,7 @@
   {
     "Facility": "Tubeway",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1"
+    "Equipment": "Sleeving Station 1 (2nd shift) - Short Boi"
   },
   {
     "Facility": "Tubeway",
