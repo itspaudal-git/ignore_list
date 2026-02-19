@@ -203,5 +203,10 @@
     "Facility": "Westvala",
     "Task": "VCM",
     "Equipment": "Vertical Cutting Machine 1"
+  },
+  {
+    "Facility": "Westvala",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1 - Broccoli"
   }
 ]
