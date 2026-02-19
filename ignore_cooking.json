@@ -340,10 +340,6 @@
     "Task": "Open"
   },
   {
-    "Product": "Black Bean and Corn Salsa",
-    "Task": "Batch Mix"
-  },
-  {
     "Product": "2 Cheddar Chive Biscuits (151g)",
     "Task": "Open"
   },
@@ -352,8 +348,8 @@
     "Task": "Open"
   },
   {
-    "Product": "",
-    "Task": ""
+    "Product": "Butternut Squash Enchilada Mix",
+    "Task": "Batch Mix"
   },
   {
     "Product": "",
@@ -1132,7 +1128,7 @@
     "Task": ""
   },
   {
-    "Product": "Black Bean and Corn Salsa - 2",
+    "Product": "#REF!",
     "Task": ""
   },
   {
@@ -1144,7 +1140,7 @@
     "Task": ""
   },
   {
-    "Product": " - 2",
+    "Product": "Butternut Squash Enchilada Mix - 2",
     "Task": ""
   },
   {
