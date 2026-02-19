@@ -135,7 +135,7 @@
     "Facility": "Pershing",
     "Type": "Cooking",
     "Task": "Kettle",
-    "Equipment": "Kettle 4-60"
+    "Equipment": "Kettle 4"
   },
   {
     "Facility": "Pershing",
@@ -697,18 +697,6 @@
   },
   {
     "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "Tinning_Armor Sleeve"
-  },
-  {
-    "Facility": "Westvala",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "Tinning_Armor Sleeve"
-  },
-  {
-    "Facility": "Tubeway",
     "Type": "Cooking",
     "Task": "Thaw",
     "Equipment": "Thaw Frozen"
@@ -1186,6 +1174,12 @@
     "Type": "Portioning",
     "Task": "Tray Portioning and Sealing",
     "Equipment": "GTRe 1 Tray Sealing Line Split Shift"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "Tinning_Armor Sleeve"
   },
   {
     "Facility": "Tubeway",
@@ -2200,6 +2194,12 @@
     "Type": "Portioning",
     "Task": "Tray Portioning and Sealing",
     "Equipment": "GT4"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "Tinning_Armor Sleeve"
   },
   {
     "Facility": "Westvala",
