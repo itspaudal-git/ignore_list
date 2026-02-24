@@ -813,6 +813,30 @@
     "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
     "Equipment": "Sleeving Station 1 - Short Boi"
   },
   {
