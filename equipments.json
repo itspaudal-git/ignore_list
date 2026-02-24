@@ -693,6 +693,48 @@
     "Facility": "Pershing",
     "Type": "Portioning",
     "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 Tray Sealing Line 2nd shift"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2 Tray Sealing Line 2nd shift"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 2nd Tray Sealing Line 2nd shift"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2 2nd Tray Sealing Line 2nd shift"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 3rd Tray Sealing Line 2nd shift"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2 3rd Tray Sealing Line 2nd shift"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "SealMax Tray Sealing Line 2nd shift"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
     "Equipment": "Tinning_Armor Sleeve"
   },
   {
