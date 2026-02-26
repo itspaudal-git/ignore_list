@@ -348,16 +348,12 @@
     "Task": "Open"
   },
   {
-    "Product": "Butternut Squash Enchilada Mix",
-    "Task": "Batch Mix"
-  },
-  {
     "Product": "Crumbled Bleu Cheese",
     "Task": "Open"
   },
   {
-    "Product": "",
-    "Task": ""
+    "Product": "Thawed Italian Salsa Verde",
+    "Task": "Thaw"
   },
   {
     "Product": "",
@@ -1140,7 +1136,7 @@
     "Task": ""
   },
   {
-    "Product": "Butternut Squash Enchilada Mix - 2",
+    "Product": "#REF!",
     "Task": ""
   },
   {
@@ -1148,7 +1144,7 @@
     "Task": ""
   },
   {
-    "Product": " - 2",
+    "Product": "Thawed Italian Salsa Verde - 2",
     "Task": ""
   },
   {
