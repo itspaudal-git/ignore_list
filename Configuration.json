@@ -5,6 +5,11 @@
     "Qty Per Bins": 100
   },
   {
+    "Product": "Au Piovre",
+    "Container": "Sachet",
+    "Qty Per Bins": 200
+  },
+  {
     "Product": "Bacon Tomato Spread ",
     "Container": "Sachet",
     "Qty Per Bins": 200
@@ -25,9 +30,19 @@
     "Qty Per Bins": 100
   },
   {
+    "Product": "Brown Sugar Soy Glaze",
+    "Container": "Sachet",
+    "Qty Per Bins": 200
+  },
+  {
     "Product": "Buffalo Veloute for Buffalo Flatbread",
     "Container": "Sachet",
     "Qty Per Bins": 200
+  },
+  {
+    "Product": "CH Shrimp Curry Mix ",
+    "Container": "Sachet",
+    "Qty Per Bins": 100
   },
   {
     "Product": "Chashu Sauce",
@@ -75,6 +90,11 @@
     "Qty Per Bins": 200
   },
   {
+    "Product": "Garlic Thyme Cream Sauce",
+    "Container": "Sachet",
+    "Qty Per Bins": 200
+  },
+  {
     "Product": "Gravy",
     "Container": "Sachet",
     "Qty Per Bins": 100
@@ -83,6 +103,11 @@
     "Product": "Green Curry Sauce for Salmon",
     "Container": "Sachet",
     "Qty Per Bins": 100
+  },
+  {
+    "Product": "Green Onion Sesame Vinaigrette ",
+    "Container": "Sachet",
+    "Qty Per Bins": 200
   },
   {
     "Product": "Korean BBQ Sauce",
@@ -115,7 +140,22 @@
     "Qty Per Bins": 200
   },
   {
+    "Product": "Mapo Sauce",
+    "Container": "Sachet",
+    "Qty Per Bins": 100
+  },
+  {
+    "Product": "Peppadew Creamy Sauce ",
+    "Container": "Sachet",
+    "Qty Per Bins": 200
+  },
+  {
     "Product": "Sage Alfredo Half Roux ",
+    "Container": "Sachet",
+    "Qty Per Bins": 200
+  },
+  {
+    "Product": "Soy Pepper Sauce",
     "Container": "Sachet",
     "Qty Per Bins": 200
   },
@@ -145,41 +185,6 @@
     "Qty Per Bins": 100
   },
   {
-    "Product": "Green Onion Sesame Vinaigrette ",
-    "Container": "Sachet",
-    "Qty Per Bins": 200
-  },
-  {
-    "Product": "Garlic Thyme Cream Sauce",
-    "Container": "Sachet",
-    "Qty Per Bins": 200
-  },
-  {
-    "Product": "CH Shrimp Curry Mix ",
-    "Container": "Sachet",
-    "Qty Per Bins": 100
-  },
-  {
-    "Product": "Brown Sugar Soy Glaze",
-    "Container": "Sachet",
-    "Qty Per Bins": 200
-  },
-  {
-    "Product": "Soy Pepper Sauce",
-    "Container": "Sachet",
-    "Qty Per Bins": 200
-  },
-  {
-    "Product": "Peppadew Creamy Sauce ",
-    "Container": "Sachet",
-    "Qty Per Bins": 200
-  },
-  {
-    "Product": "Mapo Sauce",
-    "Container": "Sachet",
-    "Qty Per Bins": 100
-  },
-  {
     "Product": "Wonton Soup Concentrate",
     "Container": "Sachet",
     "Qty Per Bins": 300
@@ -188,10 +193,5 @@
     "Product": "Wonton Soup Concentrate - 2",
     "Container": "Sachet",
     "Qty Per Bins": 300
-  },
-  {
-    "Product": "Au Piovre",
-    "Container": "Sachet",
-    "Qty Per Bins": 200
   }
 ]
