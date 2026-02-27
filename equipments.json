@@ -3,30 +3,6 @@
     "Facility": "Pershing",
     "Type": "Cooking",
     "Task": "Batch Mix",
-    "Equipment": "Large Tumbler 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Batch Mix",
-    "Equipment": "Large Tumbler 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Batch Mix",
-    "Equipment": "Small Tumbler 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Batch Mix",
-    "Equipment": "Small Tumbler 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Batch Mix",
     "Equipment": "Bowl Mixing Station 1"
   },
   {
@@ -37,60 +13,6 @@
   },
   {
     "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Cup Portioning",
-    "Equipment": "Manual Portioning Station 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Cup Portioning",
-    "Equipment": "Manual Portioning Station 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Cup Portioning",
-    "Equipment": "Manual Portioning Station 3"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Cup Portioning",
-    "Equipment": "Manual Portioning Station 1 2nd"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Cup Portioning",
-    "Equipment": "Manual Portioning Station 2 2nd"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Cup Portioning",
-    "Equipment": "Manual Portioning Station 3 2nd"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Cup Portioning",
-    "Equipment": "Manual Portioning Station 1 3rd"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Cup Portioning",
-    "Equipment": "Manual Portioning Station 2 3rd"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Cup Portioning",
-    "Equipment": "Manual Portioning Station 3 3rd"
-  },
-  {
-    "Facility": "Pershing",
     "Type": "Cooking",
     "Task": "Drain",
     "Equipment": "Drain"
@@ -98,20 +20,44 @@
   {
     "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "Warehouse"
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 Tray Sealing Line 1st Shift"
   },
   {
     "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "Sanitation"
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 Tray Sealing Line 2nd shift"
   },
   {
     "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "QA"
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1  Tray Sealing Line 3rd shift"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2 Tray Sealing Line 1st Shift"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2 Tray Sealing Line 2nd shift"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2 Tray Sealing Line 3rd shift"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle 4"
   },
   {
     "Facility": "Pershing",
@@ -134,14 +80,92 @@
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Kettle",
-    "Equipment": "Kettle 4"
+    "Task": "Knife",
+    "Equipment": "Knife"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Knife",
-    "Equipment": "Knife"
+    "Task": "Batch Mix",
+    "Equipment": "Large Tumbler 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Large Tumbler 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 1 2nd"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 1 3rd"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 2 2nd"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 2 3rd"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 3"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 3 2nd"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Cup Portioning",
+    "Equipment": "Manual Portioning Station 3 3rd"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Open",
+    "Equipment": "Open"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Planetary Mix",
+    "Equipment": "Planatery Mixer 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Planetary Mix",
+    "Equipment": "Planatery Mixer 2"
   },
   {
     "Facility": "Pershing",
@@ -158,38 +182,662 @@
   {
     "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Open",
-    "Equipment": "Open"
+    "Task": "Facility",
+    "Equipment": "QA"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Sanitation"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Oven",
-    "Equipment": "Unox Combi Oven 1"
+    "Task": "Kettle",
+    "Equipment": "Skillet 1"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Oven",
-    "Equipment": "Unox Combi Oven 2"
+    "Task": "Skillet",
+    "Equipment": "Skillet 1"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Oven",
-    "Equipment": "Unox Combi Oven 3"
+    "Task": "Kettle",
+    "Equipment": "Skillet 2"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Planetary Mix",
-    "Equipment": "Planatery Mixer 1"
+    "Task": "Skillet",
+    "Equipment": "Skillet 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (1st shift) -  Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (1st shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (1st shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (1st shift) - Family Meal"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (1st shift)  - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (1st shift)  - NGT Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (1st shift)  - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (1st shift) - Short Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (1st shift)  - Short Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (1st shift)  - Tall Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (1st shift) - Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (1st shift)  - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (1st shift) -  Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (1st shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (1st shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (1st shift) - Family Meal"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (1st shift)  - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (1st shift)  - NGT Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (1st shift)  - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (1st shift) - Short Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (1st shift)  - Short Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (1st shift)  - Tall Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (1st shift) - Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (1st shift)  - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (1st shift) -  Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (1st shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (1st shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (1st shift) - Family Meal"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (1st shift)  - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (1st shift)  - NGT Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (1st shift)  - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (1st shift) - Short Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (1st shift)  - Short Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (1st shift)  - Tall Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (1st shift) - Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (1st shift)  - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) -  Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - Family Meal"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - NGT Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - Short Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - Short Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - Tall Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (2nd shift) - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) -  Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Family Meal"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - NGT Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Tall Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 (3rd shift) - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift)  Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Family Meal"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - NGT Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Short Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Tall Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (2nd shift) - Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift)  Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Family Meal"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - NGT Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Short Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Tall Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 (3rd shift) - Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Family Meal"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - NGT Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Short Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Tall Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (2nd shift) - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Drop Shelf Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Family Meal"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - NGT Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Short Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Tall Auto"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Tall Boi"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 (3rd shift) - Unsealed Meal Extra"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Planetary Mix",
-    "Equipment": "Planatery Mixer 2"
+    "Task": "Batch Mix",
+    "Equipment": "Small Tumbler 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Small Tumbler 2"
   },
   {
     "Facility": "Pershing",
@@ -217,423 +865,9 @@
   },
   {
     "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Kettle",
-    "Equipment": "Skillet 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Kettle",
-    "Equipment": "Skillet 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Skillet",
-    "Equipment": "Skillet 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Skillet",
-    "Equipment": "Skillet 2"
-  },
-  {
-    "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) - Short Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) - Tall Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) -  Drop Seelf"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) - Family Meal"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) - NGT Drop Shelf"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) - NGT Tall Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) - Bagged Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) - Sealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) - Unsealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) - Tall Auto"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) - Drop Shelf Auto"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (2nd shift) - Short Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (2nd shift) - Tall Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (2nd shift) - Drop Seelf"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (2nd shift) - Family Meal"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (2nd shift) - NGT Drop Shelf"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (2nd shift) - NGT Tall Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (2nd shift) - Bagged Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (2nd shift) - Sealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (2nd shift)  Unsealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (2nd shift) - Tall Auto"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (2nd shift) - Drop Shelf Auto"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (2nd shift) - Short Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (2nd shift) - Tall Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (2nd shift) - Drop Seelf"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (2nd shift) - Family Meal"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (2nd shift) - NGT Drop Shelf"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (2nd shift) - NGT Tall Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (2nd shift) - Bagged Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (2nd shift) - Sealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (2nd shift) - Unsealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (2nd shift) - Tall Auto"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (2nd shift) - Drop Shelf Auto"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) - Short Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (3rd shift) - Tall Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (3rd shift) -  Drop Seelf"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (3rd shift) - Family Meal"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (3rd shift) - NGT Drop Shelf"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (3rd shift) - NGT Tall Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (3rd shift) - Bagged Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (3rd shift) - Sealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (3rd shift) - Unsealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (3rd shift) - Tall Auto"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (3rd shift) - Drop Shelf Auto"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (3rd shift) - Short Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (3rd shift) - Tall Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (3rd shift) - Drop Seelf"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (3rd shift) - Family Meal"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (3rd shift) - NGT Drop Shelf"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (3rd shift) - NGT Tall Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (3rd shift) - Bagged Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (3rd shift) - Sealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (3rd shift)  Unsealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (3rd shift) - Tall Auto"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 (3rd shift) - Drop Shelf Auto"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (3rd shift) - Short Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (3rd shift) - Tall Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (3rd shift) - Drop Seelf"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (3rd shift) - Family Meal"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (3rd shift) - NGT Drop Shelf"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (3rd shift) - NGT Tall Boi"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (3rd shift) - Bagged Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (3rd shift) - Sealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (3rd shift) - Unsealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (3rd shift) - Tall Auto"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 (3rd shift) - Drop Shelf Auto"
+    "Task": "Thaw",
+    "Equipment": "Thaw"
   },
   {
     "Facility": "Pershing",
@@ -644,98 +878,32 @@
   {
     "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Thaw",
-    "Equipment": "Thaw"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1 Tray Sealing Line"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 2 Tray Sealing Line"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1 2nd Tray Sealing Line"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 2 2nd Tray Sealing Line"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1 3rd Tray Sealing Line"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 2 3rd Tray Sealing Line"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "SealMax Tray Sealing Line"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1 Tray Sealing Line 2nd shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 2 Tray Sealing Line 2nd shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1 2nd Tray Sealing Line 2nd shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 2 2nd Tray Sealing Line 2nd shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1 3rd Tray Sealing Line 2nd shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 2 3rd Tray Sealing Line 2nd shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "SealMax Tray Sealing Line 2nd shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
     "Task": "Tray Portioning and Sealing",
     "Equipment": "Tinning_Armor Sleeve"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 3"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "VCM",
+    "Equipment": "Vertical Cutting Machine 1"
   },
   {
     "Facility": "Tubeway",
@@ -1717,9 +1885,9 @@
   },
   {
     "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "VCM",
-    "Equipment": "Vertical Cutting Machine 1"
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Warehouse"
   },
   {
     "Facility": "Westvala",
