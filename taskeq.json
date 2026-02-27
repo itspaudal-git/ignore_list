@@ -7,12 +7,12 @@
   {
     "Facility": "Pershing",
     "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1 Tray Sealing Line"
+    "Equipment": "GTRe 1 Tray Sealing Line 1st Shift"
   },
   {
     "Facility": "Pershing",
     "Task": "Kettle",
-    "Equipment": "Kettle-1"
+    "Equipment": "Kettle 4"
   },
   {
     "Facility": "Pershing",
@@ -22,7 +22,7 @@
   {
     "Facility": "Pershing",
     "Task": "Batch Mix",
-    "Equipment": "Large Tumbler 1"
+    "Equipment": "Bowl Mixing Station 1"
   },
   {
     "Facility": "Pershing",
@@ -37,7 +37,7 @@
   {
     "Facility": "Pershing",
     "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 (2nd shift) - Short Boi"
+    "Equipment": "Sleeving Station 1 (1st shift) -  Drop Shelf"
   },
   {
     "Facility": "Pershing",
@@ -47,7 +47,7 @@
   {
     "Facility": "Pershing",
     "Task": "Thaw",
-    "Equipment": "Thaw Frozen"
+    "Equipment": "Thaw"
   },
   {
     "Facility": "Pershing",
@@ -62,12 +62,12 @@
   {
     "Facility": "Pershing",
     "Task": "Facility",
-    "Equipment": "Warehouse"
+    "Equipment": "QA"
   },
   {
     "Facility": "Pershing",
     "Task": "Open",
-    "Equipment": "Pneumatic Can Opener 1"
+    "Equipment": "Open"
   },
   {
     "Facility": "Tubeway",
