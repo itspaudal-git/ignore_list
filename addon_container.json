@@ -626,6 +626,11 @@
   },
   {
     "Name": "Cornbread Mix Sachet, 90g",
+    "Container": "no wip",
+    "Master Task": ""
+  },
+  {
+    "Name": "Shredded Cheddar, Sachet (20g)",
     "Container": "Dry Sachet",
     "Master Task": "Dry Sachet Depositing"
   }
