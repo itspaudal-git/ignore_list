@@ -1,5 +1,13 @@
 [
   {
+    "Product": "Cheddar, shredded, sharp",
+    "Container": "Dry Sachet Depositing"
+  },
+  {
+    "Product": "Thawed Hot Dog Chili Sauce",
+    "Container": "Liquid Sachet Depositing"
+  },
+  {
     "Product": "Garlic and Parsley Paste",
     "Container": "Liquid Sachet Depositing"
   },
@@ -60,11 +68,47 @@
     "Container": "Liquid Sachet Depositing"
   },
   {
-    "Product": "Cheddar, shredded, sharp",
-    "Container": "Dry Sachet Depositing"
+    "Product": "Corn Puree for Corn Cake",
+    "Container": "Liquid Sachet Depositing"
   },
   {
-    "Product": "Thawed Hot Dog Chili Sauce",
+    "Product": "Salsa, Fire Roasted, Mild",
+    "Container": "Liquid Sachet Depositing"
+  },
+  {
+    "Product": "Buffalo Sauce",
+    "Container": "Liquid Sachet Depositing"
+  },
+  {
+    "Product": "Smokey BBQ Sauce, Giraffe",
+    "Container": "Liquid Sachet Depositing"
+  },
+  {
+    "Product": "Thawed White Chicken Chili",
+    "Container": "Liquid Sachet Depositing"
+  },
+  {
+    "Product": "BBQ Sauce Sachet, 1.34oz, 38g",
+    "Container": "Liquid Sachet Depositing"
+  },
+  {
+    "Product": "Liquid Egg",
+    "Container": "Liquid Sachet Depositing"
+  },
+  {
+    "Product": "Broccoli Cheddar Soup Base",
+    "Container": "Liquid Sachet Depositing"
+  },
+  {
+    "Product": "Thawed Tomato Soup",
+    "Container": "Liquid Sachet Depositing"
+  },
+  {
+    "Product": "Elotes Dressing",
+    "Container": "Liquid Sachet Depositing"
+  },
+  {
+    "Product": "Garlic Thyme Cream Sauce",
     "Container": "Liquid Sachet Depositing"
   }
 ]
