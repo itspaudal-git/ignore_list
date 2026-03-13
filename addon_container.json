@@ -581,8 +581,8 @@
   },
   {
     "Name": "Broccoli Cheddar Soup Base",
-    "Container": "Sachet",
-    "Master Task": "Liquid Sachet Depositing"
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   },
   {
     "Name": "Mac and Cheese - In Tray (250g)",
