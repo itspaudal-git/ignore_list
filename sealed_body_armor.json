@@ -96,10 +96,6 @@
     "Container": "Liquid Sachet Depositing"
   },
   {
-    "Product": "Broccoli Cheddar Soup Base",
-    "Container": "Liquid Sachet Depositing"
-  },
-  {
     "Product": "Thawed Tomato Soup",
     "Container": "Liquid Sachet Depositing"
   },
@@ -110,5 +106,13 @@
   {
     "Product": "Garlic Thyme Cream Sauce",
     "Container": "Liquid Sachet Depositing"
+  },
+  {
+    "Product": "",
+    "Container": ""
+  },
+  {
+    "Product": "Cheddar, shredded, sharp",
+    "Container": "Dry Sachet Depositing"
   }
 ]
