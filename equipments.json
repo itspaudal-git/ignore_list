@@ -1,6 +1,18 @@
 [
   {
     "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Bagged Meal Extra",
+    "Equipment": "Bagged Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Bagged Meal Extra",
+    "Equipment": "9 X 14 Bag"
+  },
+  {
+    "Facility": "Pershing",
     "Type": "Cooking",
     "Task": "Batch Mix",
     "Equipment": "Bowl Mixing Station 1"
@@ -14,78 +26,6 @@
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Drain",
-    "Equipment": "Drain"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1 Tray Sealing Line 1st Shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1 Tray Sealing Line 2nd shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 1  Tray Sealing Line 3rd shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 2 Tray Sealing Line 1st Shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 2 Tray Sealing Line 2nd shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Tray Portioning and Sealing",
-    "Equipment": "GTRe 2 Tray Sealing Line 3rd shift"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Kettle",
-    "Equipment": "Kettle 4"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Kettle",
-    "Equipment": "Kettle-1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Kettle",
-    "Equipment": "Kettle-2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Kettle",
-    "Equipment": "Kettle-3"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Knife",
-    "Equipment": "Knife"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
     "Task": "Batch Mix",
     "Equipment": "Large Tumbler 1"
   },
@@ -94,6 +34,18 @@
     "Type": "Cooking",
     "Task": "Batch Mix",
     "Equipment": "Large Tumbler 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Small Tumbler 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Batch Mix",
+    "Equipment": "Small Tumbler 2"
   },
   {
     "Facility": "Pershing",
@@ -151,9 +103,105 @@
   },
   {
     "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Drain",
+    "Equipment": "Drain"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "QA"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Sanitation"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Warehouse"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle 4"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Kettle-3"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Skillet 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Kettle",
+    "Equipment": "Skillet 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Knife",
+    "Equipment": "Knife"
+  },
+  {
+    "Facility": "Pershing",
     "Type": "Portioning",
     "Task": "Open",
     "Equipment": "Open"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Open",
+    "Equipment": "Pneumatic Can Opener 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Open",
+    "Equipment": "Pneumatic Can Opener 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 1"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Oven",
+    "Equipment": "Unox Combi Oven 3"
   },
   {
     "Facility": "Pershing",
@@ -170,62 +218,50 @@
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Open",
-    "Equipment": "Pneumatic Can Opener 1"
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 1"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Open",
-    "Equipment": "Pneumatic Can Opener 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "QA"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "Sanitation"
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 2"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
-    "Task": "Kettle",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 3"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stick Blender STANDARD 4"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stand Blender"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Sauce Mix",
+    "Equipment": "Stand Blender"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "Skillet",
     "Equipment": "Skillet 1"
   },
   {
     "Facility": "Pershing",
     "Type": "Cooking",
     "Task": "Skillet",
-    "Equipment": "Skillet 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Kettle",
     "Equipment": "Skillet 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Skillet",
-    "Equipment": "Skillet 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Unsealed Meal Extra",
-    "Equipment": "Unsealed Meal Extra"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Bagged Meal Extra",
-    "Equipment": "Bagged Meal Extra"
   },
   {
     "Facility": "Pershing",
@@ -841,39 +877,39 @@
   },
   {
     "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Batch Mix",
-    "Equipment": "Small Tumbler 1"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1"
   },
   {
     "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Batch Mix",
-    "Equipment": "Small Tumbler 2"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2"
   },
   {
     "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Sauce Mix",
-    "Equipment": "Stick Blender STANDARD 1"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3"
   },
   {
     "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Sauce Mix",
-    "Equipment": "Stick Blender STANDARD 2"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 1 3rd"
   },
   {
     "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Sauce Mix",
-    "Equipment": "Stick Blender STANDARD 3"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 2 3rd"
   },
   {
     "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Sauce Mix",
-    "Equipment": "Stick Blender STANDARD 4"
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 3 3rd"
   },
   {
     "Facility": "Pershing",
@@ -891,37 +927,13 @@
     "Facility": "Pershing",
     "Type": "Portioning",
     "Task": "Tray Portioning and Sealing",
-    "Equipment": "Tinning_Armor Sleeve"
+    "Equipment": "GTRe 1 Tray Sealing Line 1st Shift"
   },
   {
     "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Oven",
-    "Equipment": "Unox Combi Oven 1"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Oven",
-    "Equipment": "Unox Combi Oven 2"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "Oven",
-    "Equipment": "Unox Combi Oven 3"
-  },
-  {
-    "Facility": "Pershing",
-    "Type": "Cooking",
-    "Task": "VCM",
-    "Equipment": "Vertical Cutting Machine 1"
-  },
-  {
-    "Facility": "Tubeway",
     "Type": "Portioning",
-    "Task": "Unsealed Meal Extra",
-    "Equipment": "Unsealed Meal Extra"
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 Tray Sealing Line 2nd shift"
   },
   {
     "Facility": "Tubeway",
@@ -931,51 +943,45 @@
   },
   {
     "Facility": "Tubeway",
-    "Type": "Cooking",
-    "Task": "Thaw",
-    "Equipment": "Thaw Frozen"
+    "Type": "Portioning",
+    "Task": "Bagged Meal Extra",
+    "Equipment": "9 X 14 Bag"
   },
   {
     "Facility": "Tubeway",
     "Type": "Portioning",
-    "Task": "Packout",
-    "Equipment": "Line 1"
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 1"
   },
   {
     "Facility": "Tubeway",
     "Type": "Portioning",
-    "Task": "Packout",
-    "Equipment": "Line 2"
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 2"
   },
   {
     "Facility": "Tubeway",
     "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "Warehouse"
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 3"
   },
   {
     "Facility": "Tubeway",
     "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "Sanitation"
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 1 - Bagged Meal Extra"
   },
   {
     "Facility": "Tubeway",
     "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "QA"
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 2 - Bagged Meal Extra"
   },
   {
     "Facility": "Tubeway",
     "Type": "Portioning",
-    "Task": "Open",
-    "Equipment": "Open"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Thaw",
-    "Equipment": "Thaw"
+    "Task": "Band Sealing",
+    "Equipment": "Bandsealer 3 - Bagged Meal Extra"
   },
   {
     "Facility": "Tubeway",
@@ -1000,6 +1006,72 @@
     "Type": "Portioning",
     "Task": "Cup Portioning",
     "Equipment": "Manual Portioning 4"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Dry Sachet Depositing",
+    "Equipment": "Dry Bucket 1"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Dry Sachet Depositing",
+    "Equipment": "Dry Bucket 2"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Dry Sachet Depositing",
+    "Equipment": "Dry Bucket 3"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Warehouse"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "Sanitation"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Facility",
+    "Equipment": "QA"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Liquid Sachet Depositing",
+    "Equipment": "Dangan"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Liquid Sachet Depositing",
+    "Equipment": "Dangan <80 g"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Open",
+    "Equipment": "Open"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Packout",
+    "Equipment": "Line 1"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Packout",
+    "Equipment": "Line 2"
   },
   {
     "Facility": "Tubeway",
@@ -1242,54 +1314,6 @@
     "Equipment": "Sleeving Station 4 - Drop Seelf"
   },
   {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 4 - Family Meal"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 4 - NGT Drop Shelf"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 4 - NGT Tall Boi"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 4 - Bagged Meal Extra"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 4 - Sealed Meal Extra"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 4 - Unsealed Meal Extra"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 4 - Tall Auto"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 4 - Drop Auto"
-  },
-  {
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Unsealed Meal Extra",
@@ -1300,6 +1324,12 @@
     "Type": "Portioning",
     "Task": "Bagged Meal Extra",
     "Equipment": "Bagged Meal Extra"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Bagged Meal Extra",
+    "Equipment": "9 X 14 Bag"
   },
   {
     "Facility": "Westvala",
@@ -1700,6 +1730,66 @@
   {
     "Facility": "Tubeway",
     "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Family Meal"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - NGT Drop Shelf"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - NGT Tall Boi"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Bagged Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Sealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Tall Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Sleeving Station 4 - Drop Auto"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Cooking",
+    "Task": "Thaw",
+    "Equipment": "Thaw Frozen"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
+    "Task": "Thaw",
+    "Equipment": "Thaw"
+  },
+  {
+    "Facility": "Tubeway",
+    "Type": "Portioning",
     "Task": "Tray Portioning and Sealing",
     "Equipment": "GTRe 1 Tray Sealing Line 1st shift"
   },
@@ -1718,32 +1808,8 @@
   {
     "Facility": "Tubeway",
     "Type": "Portioning",
-    "Task": "Liquid Sachet Depositing",
-    "Equipment": "Dangan"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Liquid Sachet Depositing",
-    "Equipment": "Dangan <80 g"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Dry Sachet Depositing",
-    "Equipment": "Dry Bucket 1"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Dry Sachet Depositing",
-    "Equipment": "Dry Bucket 2"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Dry Sachet Depositing",
-    "Equipment": "Dry Bucket 3"
+    "Task": "Unsealed Meal Extra",
+    "Equipment": "Unsealed Meal Extra"
   },
   {
     "Facility": "Tubeway",
@@ -1884,42 +1950,6 @@
     "Equipment": "Veggie Sealer 1.5 - Broccoli"
   },
   {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Band Sealing",
-    "Equipment": "Bandsealer 1"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Band Sealing",
-    "Equipment": "Bandsealer 2"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Band Sealing",
-    "Equipment": "Bandsealer 3"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Band Sealing",
-    "Equipment": "Bandsealer 1 - Bagged Meal Extra"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Band Sealing",
-    "Equipment": "Bandsealer 2 - Bagged Meal Extra"
-  },
-  {
-    "Facility": "Tubeway",
-    "Type": "Portioning",
-    "Task": "Band Sealing",
-    "Equipment": "Bandsealer 3 - Bagged Meal Extra"
-  },
-  {
     "Facility": "Westvala",
     "Type": "Cooking",
     "Task": "Thaw",
@@ -2038,6 +2068,12 @@
     "Type": "Portioning",
     "Task": "Veggie Sealing",
     "Equipment": "Veggie Sealer 1 - Broccoli"
+  },
+  {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Veggie Sealing",
+    "Equipment": "Veggie Sealer 1"
   },
   {
     "Facility": "Westvala",
@@ -2186,8 +2222,8 @@
   {
     "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Facility",
-    "Equipment": "Warehouse"
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1  Tray Sealing Line 3rd shift"
   },
   {
     "Facility": "Westvala",
@@ -2420,38 +2456,44 @@
   {
     "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1"
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2 Tray Sealing Line 1st Shift"
   },
   {
     "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1"
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2 Tray Sealing Line 2nd shift"
   },
   {
     "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1"
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 2 Tray Sealing Line 3rd shift"
   },
   {
     "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 1 3rd"
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "Tinning_Armor Sleeve"
   },
   {
     "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 2 3rd"
+    "Task": "Unsealed Meal Extra",
+    "Equipment": "Unsealed Meal Extra"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Cooking",
+    "Task": "VCM",
+    "Equipment": "Vertical Cutting Machine 1"
   },
   {
     "Facility": "Pershing",
     "Type": "Portioning",
-    "Task": "Sleeving",
-    "Equipment": "Sleeving Station 3 3rd"
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GTRe 1 Tray Sealing Line"
   },
   {
     "Facility": "Tubeway",
