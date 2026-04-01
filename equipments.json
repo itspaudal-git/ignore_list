@@ -169,12 +169,6 @@
   },
   {
     "Facility": "Pershing",
-    "Type": "Portioning",
-    "Task": "Open",
-    "Equipment": "Open"
-  },
-  {
-    "Facility": "Pershing",
     "Type": "Cooking",
     "Task": "Open",
     "Equipment": "Pneumatic Can Opener 1"
@@ -184,6 +178,12 @@
     "Type": "Cooking",
     "Task": "Open",
     "Equipment": "Pneumatic Can Opener 2"
+  },
+  {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Open",
+    "Equipment": "Open"
   },
   {
     "Facility": "Pershing",
@@ -1779,13 +1779,13 @@
     "Facility": "Tubeway",
     "Type": "Cooking",
     "Task": "Thaw",
-    "Equipment": "Thaw Frozen"
+    "Equipment": "Thaw"
   },
   {
     "Facility": "Tubeway",
     "Type": "Portioning",
     "Task": "Thaw",
-    "Equipment": "Thaw"
+    "Equipment": "Thaw Frozen"
   },
   {
     "Facility": "Tubeway",
@@ -1953,7 +1953,7 @@
     "Facility": "Westvala",
     "Type": "Cooking",
     "Task": "Thaw",
-    "Equipment": "Thaw Frozen"
+    "Equipment": "Thaw"
   },
   {
     "Facility": "Westvala",
@@ -2229,7 +2229,7 @@
     "Facility": "Westvala",
     "Type": "Portioning",
     "Task": "Thaw",
-    "Equipment": "Thaw"
+    "Equipment": "Thaw Frozen"
   },
   {
     "Facility": "Westvala",
@@ -2500,5 +2500,263 @@
     "Type": "Portioning",
     "Task": "Tray Portioning and Sealing",
     "Equipment": "GTRe 1 Tray Sealing Line"
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
+  },
+  {
+    "Facility": "",
+    "Type": "",
+    "Task": "",
+    "Equipment": ""
   }
 ]
