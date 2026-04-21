@@ -643,5 +643,15 @@
     "Name": "Cornbread Mix Sachet, 90g",
     "Container": "Dry Sachet",
     "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Bite-Sized Pancakes IW, 10.6oz, 300g",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Sweet Potato Puree",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
