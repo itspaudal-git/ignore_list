@@ -658,5 +658,20 @@
     "Name": "Cheddar Grits - In Tray (200g)",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Shredded Swiss, Sachet (30g)",
+    "Container": "Dry Sachet",
+    "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Celebration Cookie Dough Pucks - In Tray (141.8g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "IQF Root Veg - In Tray (200g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
