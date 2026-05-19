@@ -484,5 +484,17 @@
     "Container": "tray 1 vac pack",
     "Assign_Letter": "",
     "Slot_Map": ""
+  },
+  {
+    "Product": "Pork Tenderloin, IVP, 6oz, 170g",
+    "Container": "tray 1 vac pack",
+    "Assign_Letter": "",
+    "Slot_Map": ""
+  },
+  {
+    "Product": "Pork Tenderloin, IVP, 6oz, 170g - 2",
+    "Container": "tray 1 vac pack",
+    "Assign_Letter": "",
+    "Slot_Map": ""
   }
 ]
