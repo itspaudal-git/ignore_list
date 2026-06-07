@@ -688,5 +688,10 @@
     "Name": "Shredded Mozzarella, Sachet (30g)",
     "Container": "Dry Sachet",
     "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Broccoli Salad Dressing",
+    "Container": "Sachet",
+    "Master Task": "Liquid Sachet Depositing"
   }
 ]
