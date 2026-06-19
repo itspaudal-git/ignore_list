@@ -693,5 +693,30 @@
     "Name": "Broccoli Salad Dressing",
     "Container": "Sachet",
     "Master Task": "Liquid Sachet Depositing"
+  },
+  {
+    "Name": "Bean, Baked Vegetarian Canned",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Opened Canned Baked Beans",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Bean, Baked Vegetarian Canned ",
+    "Container": "",
+    "Master Task": ""
+  },
+  {
+    "Name": "One 10\" Flour Tortilla, (70g)",
+    "Container": "Band Sealing",
+    "Master Task": "Band Sealing"
+  },
+  {
+    "Name": "Shredded Cheddar, Sachet (30g)",
+    "Container": "dry sachet",
+    "Master Task": "Dry Sachet Depositing"
   }
 ]
