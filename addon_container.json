@@ -718,5 +718,15 @@
     "Name": "Shredded Cheddar, Sachet (30g)",
     "Container": "dry sachet",
     "Master Task": "Dry Sachet Depositing"
+  },
+  {
+    "Name": "Corn Base Mix",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "IQF White Rice - In Tray (120g)",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
