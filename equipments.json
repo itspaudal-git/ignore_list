@@ -1349,6 +1349,78 @@
     "Task": "Bagged Meal Extra",
     "Equipment": "9 X 14 Bag"
   },
+    {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 1"
+  },
+      {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 2"
+  },
+      {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 3"
+  },
+      {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 4"
+  },
+      {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 5"
+  },
+      {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 6"
+  },
+      {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 7"
+  },
+      {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 8"
+  },
+      {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 9"
+  },
+      {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 10"
+  },
+      {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 11"
+  },
+      {
+    "Facility": "Westvala",
+    "Type": "Portioning",
+    "Task": "Sleeving",
+    "Equipment": "Prep Station 12"
+  },
   {
     "Facility": "Westvala",
     "Type": "Portioning",
