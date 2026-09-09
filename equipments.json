@@ -923,6 +923,24 @@
     "Task": "Thaw",
     "Equipment": "Thaw Frozen"
   },
+    {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GT4 Tray Sealing Line 1st Shift"
+  },
+    {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GT4 Tray Sealing Line 2nd Shift"
+  },
+    {
+    "Facility": "Pershing",
+    "Type": "Portioning",
+    "Task": "Tray Portioning and Sealing",
+    "Equipment": "GT4 Tray Sealing Line 3rd Shift"
+  },
   {
     "Facility": "Pershing",
     "Type": "Portioning",
