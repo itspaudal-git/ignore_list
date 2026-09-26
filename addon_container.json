@@ -481,8 +481,8 @@
   },
   {
     "Name": "Thawed White Chicken Chili",
-    "Container": "Sachet",
-    "Master Task": "Liquid Sachet Depositing"
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   },
   {
     "Name": "Southwest Chicken Egg Roll, 170g",
