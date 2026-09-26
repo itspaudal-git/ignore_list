@@ -728,5 +728,10 @@
     "Name": "IQF White Rice - In Tray (120g)",
     "Container": "Tray Sealing",
     "Master Task": "Tray Portioning and Sealing"
+  },
+  {
+    "Name": "Thawed Spinach Artichoke Dip",
+    "Container": "Tray Sealing",
+    "Master Task": "Tray Portioning and Sealing"
   }
 ]
